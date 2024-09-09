@@ -4,7 +4,8 @@ author:
 tags:
   - teach
 ---
-
-## Content
+- [[Information]]
+- [[Homework]]
+# Content
 - [[2 Probability]]
 
