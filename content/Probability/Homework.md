@@ -1,4 +1,4 @@
 # List
 
 # How
-Upload homework as PDF files
+Upload homework as PDF files to JianGuoYun. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - teach
+title: 2 Probability
 ---
 
 # What is probability

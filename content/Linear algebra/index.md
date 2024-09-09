@@ -9,4 +9,4 @@ title: 线性代数与解析几何
 - 24电气： 3班，4班
 	- 周二 (3-4)，周四 (1-2)
 # 课程内容
-- [[Linear algebra/1/1 行列式|1 行列式]]
+- [[Linear algebra/1/index|index]]
