@@ -5,6 +5,7 @@ tags:
   - teach
 title: Probability and Statistics
 ---
+![[QR-PS-homepage.png]]
 - [[Information]]
 - [[Homework]]
 # Content
