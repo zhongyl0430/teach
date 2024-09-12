@@ -116,8 +116,7 @@ Hint: In each part, draw a diagram corresponding to the left side and another co
 
 # 10
 
-Recall [Example 2.10]({{< relref "20240809153754-d15_2_1_sample_spaces_and_events.md#ex-210" >}}):
-
-1.  In Example 2.10, identify three events that are mutually exclusive.
-2.  Suppose there is no outcome common to all three of the events $A,B$, and $C$ . Are these three events necessarily mutually exclusive? If your answer is yes, explain why; if your answer is no, give a counterexample using the experiment of Example 2.10.
+Recall [[EX 2.10 automobile dealer|Example 2.10]] first. 
+1. In Example 2.10, identify three events that are mutually exclusive.
+2. Suppose there is no outcome common to all three of the events $A,B$, and $C$. Are these three events necessarily mutually exclusive? If your answer is yes, explain why; if your answer is no, give a counterexample using the experiment of Example 2.10.
 
