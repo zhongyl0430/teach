@@ -123,14 +123,11 @@ The computers of six faculty members in a certain department are to be replaced.
 1. What is the probability that both selected setups are for laptop computers?
 2.  What is the probability that both selected setups are desktop machines?
 3.  What is the probability that at least one selected setup is for a desktop computer?
-6.  What is the probability that at least one computer of each type is chosen for setup?
-
-8.  至少每种类型的计算机各有一台被选中设置的概率是多少？
+4.  What is the probability that at least one computer of each type is chosen for setup?
 
 # 24
 Show that if one event $A$ is contained in another event $B$ (i.e., $A$ is a subset of $B$ ), then $P\left( A\right) \leq P\left( B\right)$ . 
-
-Hint: For such $A$ and $B,A$ and $B \cap {A}^{\prime }$ are disjoint and $B =$ $A \cup \left( {B \cap {A}^{\prime }}\right)$ , as can be seen from a Venn diagram.
+- Hint: For such $A$ and $B,A$ and $B \cap {A}^{\prime }$ are disjoint and $B =$ $A \cup \left( {B \cap {A}^{\prime }}\right)$ , as can be seen from a Venn diagram.
 
 For general $A$ and $B$ , what does this imply about the relationship among $P\left( {A \cap B}\right) ,P\left( A\right)$ and $P\left( {A \cup B}\right)$ ?
 
