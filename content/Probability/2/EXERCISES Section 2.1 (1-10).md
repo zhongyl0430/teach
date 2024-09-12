@@ -108,8 +108,8 @@ An engineering construction firm is currently working on power plants at three d
 
 Use Venn diagrams to verify the following two relationships for any events $A$ and $B$ (these are called De Morgan's laws):
 
-1.  $ \left( A \cup B \right)' = A' \cap B' $
-2.  $ \left( A \cap B \right)' = A' \cup B' $
+1.  $\left( A \cup B \right)' = A' \cap B'$
+2.  $\left( A \cap B \right)' = A' \cup B'$
 
 Hint: In each part, draw a diagram corresponding to the left side and another corresponding to the right side.
 

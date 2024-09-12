@@ -8,11 +8,12 @@ And
 
 Consider 
 - randomly selecting one of the six mysteries 
-- then randomly selecting one of the six science fiction books to take on a post-finals vacation to Acapulco 
-	- (after all, you need something to read on the beach). 
+- then randomly selecting one of the six science fiction books 
+- to take on a post-finals vacation to Acapulco 
+	- after all, you need something to read on the beach
 
 - Number the mysteries $1,2,\ldots ,6$ , 
-- do the same for the science fiction books. 
+	- do the same for the science fiction books. 
 
 - Then each outcome is a pair of numbers 
 	- such as $( 4,1 )$, 
@@ -27,4 +28,6 @@ So the probability of the event $A$ that both selected books are paperbacks is
 $$
 P\left( A\right) = \frac{N\left( A\right) }{N} = \frac{9}{36} = {.25}
 $$
----
+
+> [!question]
+> Is there any other way to obtain $P(A)$?

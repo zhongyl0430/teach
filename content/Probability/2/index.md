@@ -27,3 +27,4 @@ The study of probability as a branch of mathematics goes back over 300 years, wh
 # Content
 - [[2.1 sample spaces and events]]
 - [[2.2 axioms interpretations and properties of probability]]
+- [[2.3 Counting Techniques]]
