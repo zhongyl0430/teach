@@ -11,3 +11,4 @@ title: Probability and Statistics
 # Content
 - [[Probability/2/index|2 Probability]]
 
+![](QR-PS-advise.png)
