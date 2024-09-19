@@ -1,5 +1,6 @@
 - Complex components are assembled in a plant that uses two different assembly lines, $A$ and ${A}^{\prime }$. 
-- Line $A$ uses older equipment than ${A}^{\prime }$, so it is somewhat slower and less reliable. 
+- Line $A$ uses older equipment than ${A}^{\prime }$, 
+	- so it is somewhat slower and less reliable. 
 - Suppose 
 	- on a given day line $A$ has assembled 8 components, 
 		- of which 2 have been identified as defective $\left( B\right)$ 

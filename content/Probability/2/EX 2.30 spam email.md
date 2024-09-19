@@ -9,8 +9,8 @@
 - What is the probability that a randomly selected message is spam?
 
 - To answer this question, let's first establish some notation:
-- ${A}_{i} = \{$ message is from account $\# i\}$ for $i = 1,2,3,$
-- $B = \{$ message is spam $\}$
+	- ${A}_{i} = \{$ message is from account $\# i\}$ for $i = 1,2,3,$
+	- $B = \{$ message is spam $\}$
 
 - Then the given percentages imply that
 	- $P\left( {A}_{1}\right) = {.70}$
@@ -25,4 +25,5 @@
 $$
 P\left( B\right) = \left( {.01}\right) \left( {.70}\right) + \left( {.02}\right) \left( {.20}\right) + \left( {.05}\right) \left( {.10}\right) = {.016}
 $$
-- In the long run, ${1.6}\%$ of this individual's messages will be spam.
+- In the long run, 
+	- ${1.6}\%$ of this individual's messages will be spam.

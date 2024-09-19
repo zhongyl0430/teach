@@ -4,7 +4,7 @@
 
 > [!example]
 > - Again refer to the student council scenario, 
-> - and suppose that three of the seven representatives are to be selected to attend a statewide convention. 
+> 	- and suppose that three of the seven representatives are to be selected to attend a statewide convention. 
 > - The order of selection is *not important*; 
 > 	- all that matters is which three get selected. 
 > - So we are looking for $\left( \begin{array}{l} 7 \\ 3 \end{array}\right)$, 
