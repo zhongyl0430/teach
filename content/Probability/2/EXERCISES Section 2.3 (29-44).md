@@ -15,11 +15,16 @@ As of April 2006, roughly 50 million .com web domain names were registered (e.g.
 # 30
 
 A friend of mine is giving a dinner party. 
-His current wine supply includes 8 bottles of zinfandel, 10 of merlot, and 12 of cabernet (he only drinks red wine), all from different wineries.
+His current wine supply includes 
+- 8 bottles of zinfandel, 
+- 10 of merlot, 
+- 12 of cabernet (he only drinks red wine), 
+- all from different wineries.
+Questions:
 1. If he wants to serve 3 bottles of zinfandel and serving order is important, how many ways are there to do this?
 2. If 6 bottles of wine are to be randomly selected from the 30 for serving, how many ways are there to do this?
 3. If 6 bottles are randomly selected, how many ways are there to obtain two bottles of each variety?
-4.  If 6 bottles are randomly selected, what is the probability that this results in two bottles of each variety being chosen?
+4. If 6 bottles are randomly selected, what is the probability that this results in two bottles of each variety being chosen?
 5. If 6 bottles are randomly selected, what is the probability that all of them are the same variety?
 # 31
 
@@ -45,9 +50,9 @@ product rules to answer the following questions:
 
 # 33
 Again consider a Little League team that has 15 players on its roster.
-1.  How many ways are there to select 9 players for the starting lineup?
-2.  How many ways are there to select 9 players for the starting lineup and a batting order for the 9 starters?
-3.  Suppose 5 of the 15 players are left-handed. How many ways are there    to select 3 left-handed outfielders and have all 6 other positions occupied by right-handed players?
+1. How many ways are there to select 9 players for the starting lineup?
+2. How many ways are there to select 9 players for the starting lineup and a batting order for the 9 starters?
+3.  Suppose 5 of the 15 players are left-handed. How many ways are there to select 3 left-handed outfielders and have all 6 other positions occupied by right-handed players?
 
 # 34
 Computer keyboard failures can be attributed to electrical defects or mechanical defects. A repair facility currently has 25 failed keyboards, 6 of which have electrical defects and 19 of which have mechanical defects.
@@ -57,10 +62,10 @@ Computer keyboard failures can be attributed to electrical defects or mechanical
 
 # 35
 A production facility employs 10 workers on the day shift, 8 workers on the swing shift, and 6 workers on the graveyard shift. A quality control consultant is to select 5 of these workers for in-depth interviews. Suppose the selection is made in such a way that any particular group of 5 workers has the same chance of being selected as does any other group (drawing 5 slips without replacement from among 24).
-1.  How many selections result in all 5 workers coming from the day shift? What is the probability that all 5 selected workers will be from the day shift?
+1. How many selections result in all 5 workers coming from the day shift? What is the probability that all 5 selected workers will be from the day shift?
 2. What is the probability that all 5 selected workers will be from the same shift?
-3. What is the probability that at least two different shifts will be    represented among the selected workers?
-4.  What is the probability that at least one of the shifts will be    unrepresented in the sample of workers?
+3. What is the probability that at least two different shifts will be represented among the selected workers?
+4. What is the probability that at least one of the shifts will be  unrepresented in the sample of workers?
 
 # 36
 An academic department with five faculty members narrowed its choice for department head to either candidate $A$ or candidate $B$ . Each member then voted on a slip of paper for one of the candidates. Suppose there are actually three votes for $A$ and two for $B$ . If the slips are selected for tallying in random order, what is the probability that $A$ remains ahead of $B$ throughout the vote count (e.g., this event occurs if the selected ordering is ${AABAB}$ , but not for ${ABBAA})$ ?

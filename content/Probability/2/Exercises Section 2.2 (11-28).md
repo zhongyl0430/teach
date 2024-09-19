@@ -144,7 +144,7 @@ Hint: "A or B" is the event that at least one of the two options is requested; t
 # 26
 A certain system can experience three different types of defects. Let ${A}_{i}\left( {i = 1,2,3}\right)$ denote the event that the system has a defect of type $i$ . Suppose that
 - $P\left( {A}_{1}\right) = {.12P}$
-- $\left( {A}_{2}\right) = .07$
+- $P \left( {A}_{2}\right) = .07$
 - $P \left( {A}_{3}\right) = {.05}$
 - $P\left( {{A}_{1} \cup {A}_{2}}\right) = .13$
 - $P \left( {{A}_{1} \cup {A}_{3}}\right) = {.14}$
@@ -161,7 +161,7 @@ An academic department with five faculty members-Anderson, Box, Cox, Cramer, and
 1. What is the probability that both Anderson and Box will be selected? 
    Hint: List the equally likely outcomes.
 2. What is the probability that at least one of the two members whose name begins with $C$ is selected?
-3. If the five faculty members have taught for $3,6,7,{10}$ , and 14 years, respectively, at the university, what is the probability that the two chosen representatives have a total of at least 15 years&rsquo; teaching experience there?
+3. If the five faculty members have taught for $3,6,7,{10}$ , and 14 years, respectively, at the university, what is the probability that the two chosen representatives have a total of at least 15 years‘ teaching experience there?
 
 # 28
 In Exercise 5, suppose that any incoming individual is equally likely to be assigned to any of the three stations irrespective of where other individuals have been assigned. What is the probability that

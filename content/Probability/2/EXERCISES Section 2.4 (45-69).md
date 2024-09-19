@@ -9,24 +9,14 @@ The population of a particular country consists of three ethnic groups. Each ind
 
 Suppose that an individual is randomly selected from the population, and define events by $A = \{$ type A selected $\} ,B = \{$ type B selected $\}$ , and $C = \{$ ethnic group 3 selected $\}$ .
 
-假设从该人口中随机选择一个个体，并通过 $A = \{$ 选择A型 $\} ,B = \{$ 选择B型 $\}$ ，以及 $C = \{$ 选择第3种族群体 $\}$ 来定义事件。
-
-1.  Calculate $P\left( A\right) ,P\left( C\right)$ , and $P\left( {A \cap C}\right)$ .
-
-2.  计算 $P\left( A\right) ,P\left( C\right)$ 和 $P\left( {A \cap C}\right)$ 。
-
-3.  Calculate both $P\left( {A \mid C}\right)$ and $P\left( {C \mid A}\right)$ , and explain in context what each of these probabilities represents.
-
-4.  计算出 $P\left( {A \mid C}\right)$ 和 $P\left( {C \mid A}\right)$ ，并解释每个概率在上下文中的含义。
-
-5.  If the selected individual does not have type B blood, what is the probability that he or she is from ethnic group 1 ?
-
-6.  如果被选中的个体没有B型血，那么他或她来自第1种族群体的概率是多少？
+1. Calculate $P\left( A\right) ,P\left( C\right)$ , and $P\left( {A \cap C}\right)$ .
+2. Calculate both $P\left( {A \mid C}\right)$ and $P\left( {C \mid A}\right)$ , and explain in context what each of these probabilities represents.
+3. If the selected individual does not have type B blood, what is the probability that he or she is from ethnic group 1 ?
 
 # 46
-7.  Suppose an individual is randomly selected from the population of all adult males living in the United States. Let $A$ be the event that the selected individual is over $6\mathrm{{ft}}$ in height, and let $B$ be the event that the selected individual is a professional basketball player. Which do you think is larger, $P\left( {A \mid B}\right)$ or $P\left( {B \mid A}\right)$ ? Why?
-
-8.  假设从所有居住在美国的成年男性人口中随机选择一个个体。令 $A$ 为被选中的个体身高超过 $6\mathrm{{ft}}$ 的事件，令 $B$ 为被选中的个体是一名职业篮球运动员的事件。你认为哪个更大， $P\left( {A \mid B}\right)$ 还是 $P\left( {B \mid A}\right)$ ？为什么？
+Suppose an individual is randomly selected from the population of all adult males living in the United States. 
+Let $A$ be the event that the selected individual is over $6\mathrm{{ft}}$ in height, and let $B$ be the event that the selected individual is a professional basketball player. 
+Which do you think is larger, $P\left( {A \mid B}\right)$ or $P\left( {B \mid A}\right)$ ? Why?
 
 # 47
 9.  Return to the credit card scenario of Exercise 12 (Section 2.2), and let $C$ be the event that the selected student has an American Express card. In addition to $P\left( A\right) = {.6}$ , $P\left( B\right) = {.4}$ , and $P\left( {A \cap \mathrm{B}}\right) = {.3}$ , suppose that $P\left( C\right) = {.2}$ , $P\left( {A \cap C}\right) = {.15},P\left( {B \cap C}\right) = {.1}$ , and $P\left( {A \cap B \cap C}\right) = {.08}$ .
