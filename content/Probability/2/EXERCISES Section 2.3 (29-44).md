@@ -2,26 +2,28 @@
 # 29
 
 As of April 2006, roughly 50 million .com web domain names were registered (e.g., yahoo.com).
-1. How many domain names consisting of just two letters in sequence can
-    be formed? How many domain names of length two are there if digits as well as letters are permitted as characters? 
+1. How many domain names consisting of just two letters in sequence can be formed? 
+   How many domain names of length two are there if digits as well as letters are permitted as characters? 
     - Note: A character length of three or more is now mandated.
-2. How many domain names are there consisting of three letters in    sequence? How many of this length are there if either letters or digits are permitted? 
+2. How many domain names are there consisting of three letters in sequence? 
+   How many of this length are there if either letters or digits are permitted? 
 	- Note: All are currently taken.
 3. Answer the questions posed in (b) for four-character sequences.
-4. As of April 2006, 97,786 of the four-character sequences using either letters or digits had not yet been claimed. If a four-character name is randomly selected, what is the probability that it is already owned?
+4. As of April 2006, 97,786 of the four-character sequences using either letters or digits had not yet been claimed. 
+   If a four-character name is randomly selected, what is the probability that it is already owned?
 
 # 30
 
-A friend of mine is giving a dinner party. His current wine supply includes 8 bottles of zinfandel, 10 of merlot, and 12 of cabernet (he only drinks red wine), all from different wineries.
-1. If he wants to serve 3 bottles of zinfandel and serving order is    important, how many ways are there to do this?
-2. If 6 bottles of wine are to be randomly selected from the 30 for    serving, how many ways are there to do this?
+A friend of mine is giving a dinner party. 
+His current wine supply includes 8 bottles of zinfandel, 10 of merlot, and 12 of cabernet (he only drinks red wine), all from different wineries.
+1. If he wants to serve 3 bottles of zinfandel and serving order is important, how many ways are there to do this?
+2. If 6 bottles of wine are to be randomly selected from the 30 for serving, how many ways are there to do this?
 3. If 6 bottles are randomly selected, how many ways are there to obtain two bottles of each variety?
 4.  If 6 bottles are randomly selected, what is the probability that this results in two bottles of each variety being chosen?
 5. If 6 bottles are randomly selected, what is the probability that all of them are the same variety?
 # 31
 
-The composer Beethoven wrote 9 symphonies, 5 piano concertos (music for
-piano and orchestra), and 32 piano sonatas (music for solo piano).
+The composer Beethoven wrote 9 symphonies, 5 piano concertos (music for piano and orchestra), and 32 piano sonatas (music for solo piano).
 1.  How many ways are there to play first a Beethoven symphony and then a Beethoven piano concerto?
 2. The manager of a radio station decides that on each successive    evening (7 days per week), a Beethoven symphony will be played    followed by a Beethoven piano concerto followed by a Beethoven piano sonata. For how many years could this policy be continued before exactly the same program would have to be repeated?
     

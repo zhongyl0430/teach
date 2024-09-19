@@ -1,8 +1,6 @@
 # 45
 The population of a particular country consists of three ethnic groups. Each individual belongs to one of the four major blood groups. The accompanying joint probability table gives the proportions of individuals in the various ethnic group-blood group combinations.
 
-2.  某个特定国家的人口由三个种族群体组成。每个个体属于四种主要血型中的一种。附带的联合概率表给出了各种种族群体-血型组合中个体的比例。
-
 |     | O    | A    | B    | AB   |
 | --- | ---- | ---- | ---- | ---- |
 | 1   | .082 | .106 | .008 | .004 |
