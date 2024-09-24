@@ -7,5 +7,6 @@ title: 线性代数与解析几何
 - [[信息]]
 # 课程内容
 - [[Linear algebra/1/index|1 行列式]]
+- [[Linear algebra/2/index|2 矩阵]]
 
 ![](QR-LA-advise.png)

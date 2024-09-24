@@ -7,15 +7,18 @@
 - It is known that ${25}\%$ of brand 1's DVD players require warranty repair work, 
 	- whereas the corresponding percentages for brands 2 and 3 are ${20}\%$ and ${10}\%$ , respectively.
 
-1.  What is the probability that a randomly selected purchaser has bought a brand 1 DVD player that will need repair while under warranty?
-
-2.  What is the probability that a randomly selected purchaser has a DVD player that will need repair while under warranty?
-
-5.  If a customer returns to the store with a DVD player that needs warranty repair work, what is the probability that it is a brand 1 DVD player? A brand 2 DVD player? A brand 3 DVD player?
+> [!question]
+> 1. What is the probability that a randomly selected purchaser has bought a brand 1 DVD player that will need repair while under warranty?
+> 2. What is the probability that a randomly selected purchaser has a DVD player that will need repair while under warranty?
+> 3. If a customer returns to the store with a DVD player that needs warranty repair work, 
+> 	- what is the probability that it is 
+> 		- a brand 1 DVD player? 
+> 		- A brand 2 DVD player? 
+> 		- A brand 3 DVD player?
 
 - The first stage of the problem involves a customer selecting one of the three brands of DVD player. 
 - Let 
-	- ${A}_{i} = \{$ brand $i$ is purchased $\}$ , for $i = 1$, $2$ , and 3 . 
+	- ${A}_{i} = \{$ brand $i$ is purchased $\}$ , for $i = 1$, $2$ , and $3$
 - Then 
 	- $P\left( {A}_{1}\right) = {.50}$,
 	- $P\left( {A}_{2}\right) = {.30}$ , 
@@ -36,7 +39,6 @@
 
 Figure 2.10 Tree diagram for Example 2.29
 ![](01913607-292d-7d0a-a250-4b01870485a1_28_663477.jpg)
-
 
 - The initial branches correspond to different brands of DVD players; 
 - there are two second-generation branches emanating from the tip of each initial branch, 

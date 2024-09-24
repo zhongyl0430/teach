@@ -1,0 +1,12 @@
+- Consider an experiment in which 9-volt batteries are tested until one with an acceptable voltage ($S$) is obtained.
+- The sample space is $\mathcal{S} = \{ S, FS, FFS, \ldots \}$.
+- Define a random variable (rv) $X$ as follows:
+	- $X =$ the number of batteries tested before the experiment terminates.
+- Observed values of $X$ based on outcomes:
+    - $X(S) = 1$
+    - $X(FS) = 2$
+    - $X(FFS) = 3$
+    - ...
+    - $X(FFFFFFS) = 7$
+- Any positive integer is a possible value of $X$.
+    - Therefore, the set of possible values is infinite.

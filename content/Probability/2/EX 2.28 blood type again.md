@@ -1,4 +1,4 @@
-For the blood-typing experiment of [[EX 2.27|Example 2.27]],
+For the blood-typing experiment of [[EX 2.27 blood type|Example 2.27]],
 $$
 \begin{align}
 &P\left( {\text{third type is }\mathrm{O} + }\right) \\

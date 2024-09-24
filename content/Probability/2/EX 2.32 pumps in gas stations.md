@@ -1,0 +1,20 @@
+- Consider 
+	- a gas station with six pumps numbered $1,2,\ldots ,6$ , 
+	- let ${E}_{i}$ denote the simple event that a randomly selected customer uses pump $i\left( {i = 1,\ldots ,6}\right)$. 
+- Suppose that
+	- $P\left( {E}_{1}\right) = P\left( {E}_{6}\right) = {.10}$
+	- $P\left( {E}_{2}\right) = P\left( {E}_{5}\right) = {.15}$
+	- $P\left( {E}_{3}\right) = P\left( {E}_{4}\right) = {.25}$
+- Define events $A,B,C$ by
+	- $A = \{ 2,4,6\}$
+	- $B = \{ 1,2,3\}$
+	- $C = \{ 2,3,4,5\}$
+- We then have 
+	- $P\left( A\right) = {.50}$,
+	- $P\left( {A \mid B}\right) = {.30}$ , 
+	- $P\left( {A \mid C}\right) = {.50}$ . 
+- That is, 
+	- events $A$ and $B$ are dependent, 
+	- whereas events $A$ and $C$ are independent. 
+- Intuitively, $A$ and $C$ are independent 
+	- because the relative division of probability among even- and odd-numbered pumps is the same among pumps $2,3,4,5$ as it is among all six pumps.

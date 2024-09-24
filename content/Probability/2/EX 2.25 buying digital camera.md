@@ -12,10 +12,9 @@
 
 - Given that the selected individual purchased an extra battery, 
 	- the probability that an optional card was *also* purchased is
-$$
-P\left( {A \mid B}\right) = \frac{P\left( {A \cap B}\right) }{P\left( B\right) } = \frac{.30}{.40} = {.75}
-$$
-	- That is, of all those purchasing an extra battery, ${75}\%$ purchased an optional memory card. 
+	- $$P\left( {A \mid B}\right) = \frac{P\left( {A \cap B}\right) }{P\left( B\right) } = \frac{.30}{.40} = {.75}$$
+	- That is, of all those purchasing an extra battery, 
+		- ${75}\%$ purchased an optional memory card. 
 - Similarly,
 $$
 \begin{align}

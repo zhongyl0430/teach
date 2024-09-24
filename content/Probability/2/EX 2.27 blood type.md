@@ -10,11 +10,13 @@
 - Making the identification 
 	- $B$ = { first type not $\mathrm{O} +$ } 
 	- $A$ = { second type not $\mathrm{O} +$ }, 
+- Then
 	- $P\left( B\right) = 3/4$
 - Given that 
 	- the first type is not $\mathrm{O} +$ , 
-- two of the three individuals left are not $\mathrm{O} +$, 
-	- so $P\left( {A \mid B}\right) = 2/3$ . 
+- Then
+	- two of the three individuals left are not $\mathrm{O} +$, 
+- so $P\left( {A \mid B}\right) = 2/3$ . 
 - The multiplication rule now gives
 $$
 \begin{align}

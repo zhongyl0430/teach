@@ -1,38 +1,21 @@
 # 70
-1.  Reconsider the credit card scenario of Exercise 47 (Section 2.4), and show that $A$ and $B$ are dependent first by using the definition of independence and then by verifying that the multiplication property does not hold.
+Reconsider the credit card scenario of Exercise 47 (Section 2.4), and show that $A$ and $B$ are dependent first by using the definition of independence and then by verifying that the multiplication property does not hold.
 
-2.  重新考虑练习题47（第2.4节）中的信用卡场景，并使用独立性的定义首先证明 $A$ 和 $B$ 是相互依赖的，然后通过验证乘法性质不成立来证实这一点。
 # 71
-3.  An oil exploration company currently has two active projects, one in Asia and the other in Europe. Let $A$ be the event that the Asian project is successful and $B$ be the event that the European project is successful. Suppose that $A$ and $B$ are independent events with $P\left( A\right) = {.4}$ and $P\left( B\right) = {.7}$ .
-
-4.  一个石油勘探公司目前有两个正在进行的项目，一个在亚洲，另一个在欧洲。令 $A$ 表示亚洲项目成功的事件， $B$ 表示欧洲项目成功的事件。假设 $A$ 和 $B$ 是独立事件，且 $P\left( A\right) = {.4}$ 和 $P\left( B\right) = {.7}$ 。
-
-5.  If the Asian project is not successful, what is the probability that the European project is also not successful? Explain your reasoning.
-
-6.  如果亚洲项目不成功，欧洲项目也不成功的概率是多少？解释你的推理。
-
-7.  What is the probability that at least one of the two projects will be successful?
-
-8.  两个项目至少有一个成功的概率是多少？
-
-9.  Given that at least one of the two projects is successful, what is the probability that only the Asian project is successful?
-
-10. 在两个项目至少有一个成功的情况下，只有亚洲项目成功的概率是多少？
+An oil exploration company currently has two active projects, one in Asia and the other in Europe. Let $A$ be the event that the Asian project is successful and $B$ be the event that the European project is successful. Suppose that $A$ and $B$ are independent events with $P\left( A\right) = {.4}$ and $P\left( B\right) = {.7}$ .
+1.  If the Asian project is not successful, what is the probability that the European project is also not successful? Explain your reasoning.
+2.  What is the probability that at least one of the two projects will be successful?
+3.  Given that at least one of the two projects is successful, what is the probability that only the Asian project is successful?
 
 # 72
-11. In Exercise 13, is any ${A}_{i}$ independent of any other ${A}_{j}$ ? Answer using the multiplication property for independent events.
-
-12. 在练习13中，是否有任何 ${A}_{i}$ 与任何其他 ${A}_{j}$ 独立？使用独立事件的乘法性质回答。
+In Exercise 13, is any ${A}_{i}$ independent of any other ${A}_{j}$ ? Answer using the multiplication property for independent events.
 
 # 73
-13. If $A$ and $B$ are independent events, show that ${A}^{\prime }$ and $B$ are also independent. [Hint: First establish a relationship between $P\left( {{A}^{\prime } \cap B}\right) ,P\left( B\right)$ , and $P\left( {A \cap B}\right)$ .]
-
-14. 如果 $A$ 和 $B$ 是独立事件，证明 ${A}^{\prime }$ 和 $B$ 也是独立的。 [提示：首先建立 $P\left( {{A}^{\prime } \cap B}\right) ,P\left( B\right)$ 和 $P\left( {A \cap B}\right)$ 之间的关系。]
+If $A$ and $B$ are independent events, show that ${A}^{\prime }$ and $B$ are also independent. 
+- Hint: First establish a relationship between $P\left( {{A}^{\prime } \cap B}\right) ,P\left( B\right)$ , and $P\left( {A \cap B}\right)$ .
 
 # 74
-15. The proportions of blood phenotypes in the U.S. population are as follows:
-
-16. 美国人口中血型表型的比例如下：
+The proportions of blood phenotypes in the U.S. population are as follows:
 
 | A   | B   | AB  | O   |
 | --- | --- | --- | --- |
@@ -40,34 +23,18 @@
 
 Assuming that the phenotypes of two randomly selected individuals are independent of one another, what is the probability that both phenotypes are $\mathrm{O}$ ? What is the probability that the phenotypes of two randomly selected individuals match?
 
-假设随机选择的两个个体的表型相互独立，两个表型都是 $\mathrm{O}$ 的概率是多少？随机选择的两个个体的表型匹配的概率是多少？
-
 # 75
-1.  One of the assumptions underlying the theory of control charting (see Chapter 16) is that successive plotted points are independent of one another. Each plotted point can signal either that a manufacturing process is operating correctly or that there is some sort of malfunction.
-
-2.  控制图理论（见第16章）的基本假设之一是连续的绘图点相互独立。每个绘图点可以表示制造过程是否正常运行或是否存在某种故障。
+One of the assumptions underlying the theory of control charting (see Chapter 16) is that successive plotted points are independent of one another. Each plotted point can signal either that a manufacturing process is operating correctly or that there is some sort of malfunction.
 
 Even when a process is running correctly, there is a small probability that a particular point will signal a problem with the process. Suppose that this probability is .05 . What is the probability that at least one of 10 successive points indicates a problem when in fact the process is operating correctly? Answer this question for 25 successive points.
 
-即使过程运行正常，也存在一个小的概率某个特定点会指示过程存在问题。假设这个概率是0.05。当过程实际上运行正常时，至少有一个连续的10个点指示问题的概率是多少？对于连续的25个点回答这个问题。
-
 # 76
-1.  In October, 1994, a flaw in a certain Pentium chip installed in computers was discovered that could result in a wrong answer when performing a division. The manufacturer initially claimed that the chance of any particular division being incorrect was only 1 in 9 billion, so that it would take thousands of years before a typical user encountered a mistake. However, statisticians are not typical users; some modern statistical techniques are so computationally intensive that a billion divisions over a short time period is not outside the realm of possibility. Assuming that the 1 in 9 billion figure is correct and that results of different divisions are independent of one another, what is the probability that at least one error occurs in one billion divisions with this chip?
-
-1994年10月，发现安装在计算机中的某种奔腾芯片存在缺陷，该缺陷在进行除法运算时可能导致错误的结果。制造商最初声称，任何特定除法运算出现错误的机会仅为九亿分之一，因此 typical 用户可能需要数千年才会遇到错误。然而，统计学家并非 typical 用户；一些现代统计技术计算量极大，短时间内进行十亿次除法运算并非不可能。假设九亿分之一的数字是正确的，并且不同除法运算的结果相互独立，那么使用这块芯片在一亿次除法运算中出现至少一个错误的概率是多少？
+In October, 1994, a flaw in a certain Pentium chip installed in computers was discovered that could result in a wrong answer when performing a division. The manufacturer initially claimed that the chance of any particular division being incorrect was only 1 in 9 billion, so that it would take thousands of years before a typical user encountered a mistake. However, statisticians are not typical users; some modern statistical techniques are so computationally intensive that a billion divisions over a short time period is not outside the realm of possibility. Assuming that the 1 in 9 billion figure is correct and that results of different divisions are independent of one another, what is the probability that at least one error occurs in one billion divisions with this chip?
 
 # 77
-1.  An aircraft seam requires 25 rivets. The seam will have to be reworked if any of these rivets is defective. Suppose rivets are defective independently of one another, each with the same probability.
-
-飞机接缝需要25个铆钉。如果这些铆钉中有任何一个是缺陷的，那么接缝就需要重新加工。假设铆钉是否缺陷相互独立，每个铆钉具有相同的缺陷概率。
-
+An aircraft seam requires 25 rivets. The seam will have to be reworked if any of these rivets is defective. Suppose rivets are defective independently of one another, each with the same probability.
 1.  If ${15}\%$ of all seams need reworking, what is the probability that a rivet is defective?
-
-如果 ${15}\%$ 的接缝需要重新加工，那么铆钉有缺陷的概率是多少？
-
-1.  How small should the probability of a defective rivet be to ensure that only ${10}\%$ of all seams need reworking?
-
-铆钉的缺陷概率应该有多小，才能确保只有 ${10}\%$ 的接缝需要重新加工？
+2.  How small should the probability of a defective rivet be to ensure that only ${10}\%$ of all seams need reworking?
 
 # 78
 1.  A boiler has five identical relief valves. The probability that any particular valve will open on demand is .96 . Assuming independent operation of the valves, calculate $P$ (at least one valve opens) and $P$ (at least one valve fails to open).
