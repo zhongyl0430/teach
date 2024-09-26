@@ -1,9 +1,9 @@
 - Group of five potential blood donors:
 	- $a, b, c, d, e$
-	- Only $a$ and $b$ have type O-positive blood
+	- Only $a$ and $b$ have type O+blood
 - Blood typing procedure:
 	- Five blood samples, one from each individual, will be typed in random order
-	- Process continues until an O-positive ($\mathrm{O}^+$) individual is identified
+	- Process continues until an O+ individual is identified
 - Let $Y$ = number of typings necessary to identify an $\mathrm{O}^+$ individual
 - The probability mass function (pmf) of $Y$ is:
 	- To be determined based on the typing sequence and the likelihood of identifying an $\mathrm{O}^+$ individual

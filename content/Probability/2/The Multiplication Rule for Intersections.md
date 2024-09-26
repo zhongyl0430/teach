@@ -22,6 +22,6 @@ $$
 
 where the second equality in Equation (2.9) is valid iff $A$ and $B$ are independent. Equivalence of independence and Equation (2.8) imply that the latter can be used as a definition of independence.其中方程（2.9）中的第二个等式在 $A$ 和 $B$ 独立时有效。独立性与方程（2.8）的等价性意味着后者可以作为独立性的定义使用。
 
-[[EX 2.34]]
+[[EX 2.34 washer vs dryer]]
 
-[[EX 2.35]]
+[[EX 2.35 batch pass inspection]]

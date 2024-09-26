@@ -8,6 +8,7 @@
 	- Assume that successive births are independent
 	- Define the random variable (rv) $X$
 		- $X$ = number of births observed
+
 $$
 \begin{align}
 p(1) &= P(X = 1) \\&= P(B) = p \\

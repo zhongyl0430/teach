@@ -1,7 +1,7 @@
 - Suppose a location (latitude and longitude) in the continental United States is selected at random.
 - Define a random variable (rv) $Y$ as follows:
 	- For example, if the selected location is $\left( {{39}^{\circ}{50}^{\prime}\mathrm{N},{98}^{\circ}{35}^{\prime}\mathrm{W}} \right)$, then:
-	- $Y\left( \left( {{39}^{\circ}{50}^{\prime}N,{98}^{\circ}{35}^{\prime}W} \right) \right) = 1748.26 \mathrm{ft}$.
+	- $Y\left( \left( {{39}^{\circ}{50}^{\prime}N,{98}^{\circ}{35}^{\prime}W} \right) \right) = 1748.26 \mathrm{ft}$ as the altitude
 - The largest possible value of $Y$ is $14,494$ (Mt. Whitney).
 - The smallest possible value is $-282$ (Death Valley).
 - The set of all possible values of $Y$ is:

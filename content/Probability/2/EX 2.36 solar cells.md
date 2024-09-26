@@ -40,14 +40,14 @@ $$
 
 - Alternatively,
 $$
-\begin{aligned}
+\begin{align}
 &P\left( {\text{system lifetime exceeds } {t}_{0}}\right) \\
 = &1 - P\left( {\text{both subsystem lives are} \leq {t}_{0}}\right) \\
 = &1 - {\left\lbrack P\left( \text{ subsystem life is } \leq {t}_{0}\right) \right\rbrack }^{2} \\
 = &1 - {\left\lbrack 1 - P\left( \text{ subsystem life is } > {t}_{0}\right) \right\rbrack }^{2} \\
-= &1 - {\left\lbrack 1 - {\left( {.9}\right) }^{3}\right\rbrack }^{2} 
+= &1 - {\left\lbrack 1 - {\left( {.9}\right) }^{3}\right\rbrack }^{2} \\
 = &{.927}
-\end{aligned}
+\end{align}
 $$
 
 Next consider the total-cross-tied system shown in  [[#^fig-2-14|Figure 2.14]] (b), 

@@ -2,7 +2,9 @@
 	- ${30}\%$ of a certain company's washing machines require service while under warranty, 
 	- whereas only ${10}\%$ of its dryers need such service. 
 - If someone purchases both a washer and a dryer made by this company, 
-	- what is the probability that both machines will need warranty service?
+
+> [!question]
+> What is the probability that *both* machines will need warranty service?
 
 - Let 
 	- $A$ denote the event that the washer needs service while under warranty, 

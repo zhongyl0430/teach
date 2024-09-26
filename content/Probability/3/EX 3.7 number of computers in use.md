@@ -21,24 +21,12 @@
 - Example 2: 
 	- The probability that at least 3 computers are in use:
 		- Since the event "at least 3 computers are in use" is complementary to "at most 2 computers are in use":
-		- 
-$$
-\begin{aligned}
-P(X \geq 3) &= 1 - P(X \leq 2) \\
-&= 1 - .30 = .70
-\end{aligned}
-$$
+		- $$\begin{aligned}P(X \geq 3) &= 1 - P(X \leq 2) \\&= 1 - .30 = .70\end{aligned}$$
 		- Alternatively, this can also be obtained by adding together probabilities for $X = 3, 4, 5, 6$.
    
 - Example 3: 
 	- The probability that between 2 and 5 computers inclusive are in use:
-	- 
-$$
-\begin{aligned}
-P(2 \leq X \leq 5) &= P(X = 2, 3, 4, \text{or } 5) \\
-&= .15 + .25 + .20 + .15 = .75
-\end{aligned}
-$$
+	- $$\begin{align}&P(2 \leq X \leq 5) \\ &= P(X = 2, 3, 4, \text{or } 5) \\&= .15 + .25 + .20 + .15 = .75\end{align}$$
    
 - Example 4: 
 	- The probability that the number of computers in use is strictly between 2 and 5:

@@ -1,5 +1,5 @@
-- Each day, Monday through Friday, a batch of components sent by a first supplier arrives at a certain inspection facility. 
-- Two days a week, a batch also arrives from a second supplier. 
+- Each day, *Monday through Friday*, a batch of components sent by a *first* supplier arrives at a certain inspection facility. 
+- *Two days* a week, a batch also arrives from a *second* supplier. 
 	- $80 \%$ of all supplier 1's batches pass inspection, 
 	- ${90}\%$ of supplier 2's do likewise. 
 
