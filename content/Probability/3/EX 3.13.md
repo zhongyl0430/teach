@@ -1,4 +1,4 @@
-EXAMPLE 3.13 A store carries flash drives with either
+A store carries flash drives with either
 $1\mathrm{\;{GB}},2\mathrm{\;{GB}},4\mathrm{\;{GB}},8\mathrm{\;{GB}}$ ,
 or ${16}\mathrm{\;{GB}}$ of memory. The accompanying table gives the
 distribution of $Y =$ the amount of memory in a purchased drive:

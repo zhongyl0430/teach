@@ -3,7 +3,8 @@
 	- $A = \{$ the car has a four cylinder engine $\}$ 
 	- $B = \{$ the car has a six cylinder engine $\}$ . 
 - Since the events are mutually exclusive, 
-	- if $B$ occurs, then $A$ cannot possibly have occurred, 
+	- if $B$ occurs, 
+	- then $A$ cannot possibly have occurred, 
 	- so $P\left( {A \mid B}\right) = 0 \neq P\left( A\right)$ . 
 - The message here is that 
 	- if two events are mutually exclusive, 
