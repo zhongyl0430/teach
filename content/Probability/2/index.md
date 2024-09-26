@@ -29,3 +29,4 @@ The study of probability as a branch of mathematics goes back over 300 years, wh
 - [[2.2 axioms interpretations and properties of probability]]
 - [[2.3 Counting Techniques]]
 - [[2.4 Conditional probability]]
+- [[2.5 Independence]]
