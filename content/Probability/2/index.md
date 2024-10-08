@@ -3,7 +3,12 @@ tags:
   - teach
 title: 2 Probability
 ---
-
+# Content
+- [[2.1 sample spaces and events]]
+- [[2.2 axioms interpretations and properties of probability]]
+- [[2.3 Counting Techniques]]
+- [[2.4 Conditional probability]]
+- [[2.5 Independence]]
 # What is probability
 - The term <span class="underline">probability</span> refers to the study of <span class="underline">randomness</span> and <span class="underline">uncertainty</span>. 
 - In any situation in which one of a number of possible outcomes may occur, the discipline of probability provides methods for quantifying the chances, or likelihoods, associated with the various outcomes. 
@@ -23,10 +28,3 @@ title: 2 Probability
 - The methodology of probability will then permit us to express in precise language such informal statements as those given above.
 # Remark on history
 The study of probability as a branch of mathematics goes back over 300 years, where it had its genesis in connection with questions involving games of chance. Many books are devoted exclusively to probability, but our objective here is to cover only that part of the subject that has the most direct bearing on problems of statistical inference.
-
-# Content
-- [[2.1 sample spaces and events]]
-- [[2.2 axioms interpretations and properties of probability]]
-- [[2.3 Counting Techniques]]
-- [[2.4 Conditional probability]]
-- [[2.5 Independence]]

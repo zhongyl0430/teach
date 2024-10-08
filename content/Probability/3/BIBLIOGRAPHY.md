@@ -1,0 +1,3 @@
+- Johnson, Norman, Samuel Kotz, and Adrienne Kemp, Discrete Univariate Distributions, Wiley, New York, 1992. An encyclopedia of information on discrete distributions.
+- Olkin, Ingram, Cyrus Derman, and Leon Gleser, Probability Models and Applications (2nd ed.), Macmillan, New York, 1994. Contains an in-depth discussion of both general properties of discrete and continuous distributions and results for specific distributions.
+- Ross, Sheldon, Introduction to Probability Models (10th ed.), Academic Press, New York, 2010. A good source of material on the Poisson process and generalizations, and a nice introduction to other topics in applied probability.

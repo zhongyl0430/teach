@@ -1,6 +1,6 @@
 - Group of five potential blood donors:
 	- $a, b, c, d, e$
-	- Only $a$ and $b$ have type O+blood
+	- Only $a$ and $b$ have type O+ blood
 - Blood typing procedure:
 	- Five blood samples, one from each individual, will be typed in random order
 	- Process continues until an O+ individual is identified
