@@ -7,7 +7,7 @@
 | ------ | --- | --- | --- | --- | --- | --- |
 | $p(X)$ | .30 | .25 | .15 | .05 | .10 | .15 |
 
-The expected value of $X$ is easily seen to be $\mu = {2.85}$ . 
+The expected value of $X$ is easily seen to be $$\mu = {2.85} .$$
 The variance of $X$ is then
 $$
 \begin{align}
@@ -18,4 +18,4 @@ V(X) &= \sigma^2 = \sum_{x=1}^{6} \left( x - 2.85 \right)^2 \cdot p(x) \\
 $$
 
 The standard deviation of $X$ is 
-$$\sigma = \sqrt{3.2275} = {1.800}$$
+$$\sigma = \sqrt{3.2275}$$

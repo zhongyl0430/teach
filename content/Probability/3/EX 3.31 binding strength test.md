@@ -1,13 +1,12 @@
-
 - Given:
-    - \( 20\% \) of all copies fail the binding strength test
+    - $20\%$ of all copies fail the binding strength test
 - Definition:
-    - Let \( X \) denote the number of failures among randomly selected copies
+    - Let $X$ denote the number of failures among randomly selected copies
 - Distribution:
-    - \( X \) follows a binomial distribution
+    - $X$ follows a binomial distribution
 	- Parameters:
-        - \( n = 15 \) (number of selected copies)
-        - \( p = 0.2 \) (probability of failure)
+        - $n = 15$ (number of selected copies)
+        - $p = 0.2$ (probability of failure)
 
 1. The probability that at most 8 fail the test is
 $$P\left( {X \leq 8}\right) = \mathop{\sum }\limits_{{y = 0}}^{8}b\left( {y;{15},{.2}}\right) = B\left( {8;{15},{.2}}\right)$$

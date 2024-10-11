@@ -31,8 +31,8 @@ E(Y) &= E\left[ h(X) \right] = \sum_{D^*} y \cdot p(y) \\
 \end{align}
 $$
 - **Expected Value of $Y$ Without Determining pmf**
-- **According to Equation (3.11)**:
-	- It is unnecessary to determine the pmf of $Y$ to calculate $E(Y)$
-- **Reasoning**:
-    - The desired expected value $E(Y)$ is a weighted average of the possible $h(x)$ values (instead of the $x$ values)
-    - This approach simplifies the calculation by focusing on $h(x)$, the cost function, rather than $Y$'s distribution
+	- **According to Equation (3.11)**:
+		- It is unnecessary to determine the pmf of $Y$ to calculate $E(Y)$
+	- **Reasoning**:
+	    - The desired expected value $E(Y)$ is a weighted average of the possible $h(x)$ values (instead of the $x$ values)
+	    - This approach simplifies the calculation by focusing on $h(x)$, the cost function, rather than $Y$'s distribution

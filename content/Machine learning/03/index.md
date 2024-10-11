@@ -1,6 +1,14 @@
 ---
 title: 03 Rademacher复杂度与VC维度
 ---
+# 内容
+- [[3.1 Rademacher complexity]]
+- [[3.2 Growth function]]
+- [[3.3 VC-dimension]]
+- [[3.4 Lower bounds]]
+- [[3.5 Chapter notes]]
+- [[3.6 Exercises]]
+# 介绍
 - 机器学习中通常使用的假设集是无限的。
 - 然而，在处理无限假设集时，上一章的样本复杂度界限是没有参考价值的。
 - 人们可能会问，当假设集$\mathcal{H}$是无限的情况下，是否仍有可能通过有限样本进行有效学习。
@@ -26,15 +34,3 @@ title: 03 Rademacher复杂度与VC维度
 - 最后，我们将基于VC维度提出两种不同情况下的下界：
 	- 一种是可实现情况下，在这种情况下，考虑的假设集中至少有一个假设能达到零期望误差；
 	- 另一种是不可实现的情况下，在这种情况下，假设集中没有任何假设能达到零期望误差。
-
-[[3.1 Rademacher complexity]]
-
-[[3.2 Growth function]]
-
-[[3.3 VC-dimension]]
-
-[[3.4 Lower bounds]]
-
-[[3.5 Chapter notes]]
-
-[[3.6 Exercises]]

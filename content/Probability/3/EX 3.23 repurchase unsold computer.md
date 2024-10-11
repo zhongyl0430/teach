@@ -28,6 +28,7 @@
 	- The profit function $h(X) = 800X - 900$ captures the financial outcome based on the number of computers sold.
 	- Understanding the distribution of $X$ will allow for calculations of expected profit and decision-making for the store.
 	- The expected profit is then
+
 $$
 \begin{align}
 E[h(X)] &= h(0) \cdot p(0) + h(1) \cdot p(1) + h(2) \cdot p(2) + h(3) \cdot p(3) \\

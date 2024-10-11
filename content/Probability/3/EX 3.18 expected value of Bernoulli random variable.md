@@ -16,7 +16,6 @@ E(X) &= 0 \cdot P(X = 0) + 1 \cdot P(X = 1) \\
      &= 0 \cdot (1 - p) + 1 \cdot p \\
      &= p
 \end{align}
-
     $$
 	- Thus, the expected value $E(X)$ is simply the probability that $X$ takes the value 1 
 		- i.e., the probability of passing the test.
