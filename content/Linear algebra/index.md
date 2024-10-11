@@ -1,7 +1,6 @@
 ---
 title: 线性代数与解析几何
 ---
-![[QR-LA-homepage.png]]
 
 - [[Linear algebra/作业|作业]]
 - [[信息]]
@@ -11,3 +10,5 @@ title: 线性代数与解析几何
 - [[teach/Linear algebra/3/index|3 向量代数与几何应用]]
 
 ![](QR-LA-advise.png)
+
+![[QR-LA-homepage.png]]
