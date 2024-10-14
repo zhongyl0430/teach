@@ -9,6 +9,5 @@ title: 线性代数与解析几何
 - [[Linear algebra/2/index|2 矩阵]]
 - [[teach/Linear algebra/3/index|3 向量代数与几何应用]]
 
-![](QR-LA-advise.png)
 
 ![[QR-LA-homepage.png]]

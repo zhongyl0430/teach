@@ -61,4 +61,4 @@
 > - 于是, $n$ 阶行列式的另一个展开式为
 > $$\left| \begin{matrix} {a}_{11} & {a}_{12} & \cdots & {a}_{1n} \\ {a}_{21} & {a}_{22} & \cdots & {a}_{2n} \\ \vdots & \vdots & & \vdots \\ {a}_{n1} & {a}_{n2} & \cdots & {a}_{nn} \end{matrix}\right| = \mathop{\sum }\limits_{{{i}_{1}{i}_{2}\cdots {i}_{n}}}{\left( -1\right) }^{\tau \left( {{i}_{1}{i}_{2}\cdots {i}_{n}}\right) }{a}_{{i}_{1}1}{a}_{{i}_{2}2}\cdots {a}_{{i}_{n}n}. \tag{3.2}$$
 
-[[例题 3.1]]
+[[teach/Linear algebra/1/例题 3.1]]
