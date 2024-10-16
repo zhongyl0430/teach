@@ -1,4 +1,5 @@
 ---
 title: Appendix
 ---
-- [[teach/Machine learning/Appendix/D/index|D Concentration Inequalities]]
+- [[B/index|B Convex Optimization]]
+- [[D/index|D Concentration Inequalities]]

@@ -1,5 +1,5 @@
 - [[Linear algebra/姚谢15/1/index|1 行列式]]
-- [[teach/Linear algebra/姚谢15/2/index|2 矩阵]]
+- [[Linear algebra/姚谢15/2/index|2 矩阵]]
 - [[3 线性空间与线性方程组]]
 - [[4 线性变换]]
 - [[5 多项式]]

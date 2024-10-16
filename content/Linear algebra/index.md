@@ -7,7 +7,7 @@ title: 线性代数与解析几何
 # 课程内容
 - [[Linear algebra/1/index|1 行列式]]
 - [[Linear algebra/2/index|2 矩阵]]
-- [[teach/Linear algebra/3/index|3 向量代数与几何应用]]
+- [[Linear algebra/3/index|3 向量代数与几何应用]]
 
 
 ![[QR-LA-homepage.png]]

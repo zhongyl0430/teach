@@ -18,7 +18,6 @@
 	- Sample size: 5
 	- Calculate probability for various values of $x$ (number of inkjet printers selected in the sample).
 
-
 - Population details:
 	- Total population size: $N = 20$
 	- Sample size: $n = 5$
@@ -44,20 +43,11 @@ P(X = 2) &= h(2; 5, 12, 20) \\
 $$
 
 - Total number of possible outcomes:
-	- The number of ways to select 5 service orders from 20 without regard to order is:
-    $$
-    \binom{20}{5}
-    $$
+	- The number of ways to select 5 service orders from 20 without regard to order is: $$\binom{20}{5}$$
 
 - Number of outcomes where $X = 2$ (exactly 2 inkjet printers are selected):
-	- The number of ways to select 2 inkjet orders from the 12 inkjet printers:
-    $$
-    \binom{12}{2}
-    $$
-  - For each of these selections, the number of ways to select the remaining 3 orders from the 8 laser printers:
-    $$
-    \binom{8}{3}
-    $$
+	- The number of ways to select 2 inkjet orders from the 12 inkjet printers: $$\binom{12}{2}$$
+  - For each of these selections, the number of ways to select the remaining 3 orders from the 8 laser printers: $$ \binom{8}{3}$$
 
 - Applying the product rule:
 	- The total number of outcomes with $X = 2$ (2 inkjet printers and 3 laser printers) is given by:
@@ -66,5 +56,4 @@ $$
     $$
 
 - Probability expression:
-	- The probability that exactly 2 inkjet printers are selected is:
-$$h\left( {2;5,{12},{20}}\right) = \frac{\left( \begin{matrix} {12} \\ 2 \end{matrix}\right) \left( \begin{array}{l} 8 \\ 3 \end{array}\right) }{\left( \begin{matrix} {20} \\ 5 \end{matrix}\right) } = \frac{77}{323} = {.238}$$
+	- The probability that exactly 2 inkjet printers are selected is: $$h\left( {2;5,{12},{20}}\right) = \frac{\left( \begin{matrix} {12} \\ 2 \end{matrix}\right) \left( \begin{array}{l} 8 \\ 3 \end{array}\right) }{\left( \begin{matrix} {20} \\ 5 \end{matrix}\right) } = \frac{77}{323} = {.238}$$

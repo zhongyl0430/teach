@@ -1,32 +1,29 @@
-## B.2 凸性
+本节介绍了凸集和凸函数的概念。凸函数在学习和算法的设计和分析中扮演着重要的角色，部分原因是因为凸函数的局部最小值必然也是全局最小值。
+因此，通过找到凸优化的局部最小值来学习假设的性质通常很清楚，而对于一些非凸优化问题，可能存在非常多的局部最小值，对于这些局部最小值，无法给出学习假设的明确特征。
 
-本节介绍了凸集和凸函数的概念。凸函数在学习和算法的设计和分析中扮演着重要的角色，部分原因是因为凸函数的局部最小值必然也是全局最小值。因此，通过找到凸优化的局部最小值来学习假设的性质通常很清楚，而对于一些非凸优化问题，可能存在非常多的局部最小值，对于这些局部最小值，无法给出学习假设的明确特征。
-
-定义 B.4(凸集)$A\;{{set}\;X} \subseteq {\mathbb{R}}^{N}\;{is}\;{said}\;{to}\;{be}\;$ 是凸的 $\;{if}\;{for}\;{any}\;{two}\;{points}\;\mathbf{x},\mathbf{y} \in X$ 段 $\left\lbrack {\mathbf{x},\mathbf{y}}\right\rbrack$ 位于 $\mathcal{X}$ 中，即
-
-$$
-\{ \alpha \mathbf{x} + \left( {1 - \alpha }\right) \mathbf{y} : 0 \leq \alpha \leq 1\} \subseteq X.
-$$
-
-![01928a40-c638-783b-803a-1bf2444d1c2b_1_464_257_895_343_0.jpg](images/01928a40-c638-783b-803a-1bf2444d1c2b_1_464_257_895_343_0.jpg)
+> [!definition] 定义 B.4 凸集
+> $A\;{{set}\;X} \subseteq {\mathbb{R}}^{N}\;{is}\;{said}\;{to}\;{be}\;$ 是凸的 $\;{if}\;{for}\;{any}\;{two}\;{points}\;\mathbf{x},\mathbf{y} \in X$ 段 $\left\lbrack {\mathbf{x},\mathbf{y}}\right\rbrack$ 位于 $\mathcal{X}$ 中，即
+> $$
+> \{ \alpha \mathbf{x} + \left( {1 - \alpha }\right) \mathbf{y} : 0 \leq \alpha \leq 1\} \subseteq X.
+> $$
 
 图 B. 1
-
-凸函数(左)和凹函数(右)的示例。注意，在凸函数上任意两点之间画的线段完全位于函数图形的上方，而在凹函数上任意两点之间画的线段完全位于函数图形的下方。
+凸函数(左)和凹函数(右)的示例。
+注意，在凸函数上任意两点之间画的线段完全位于函数图形的上方，而在凹函数上任意两点之间画的线段完全位于函数图形的下方。
+![01928a40-c638-783b-803a-1bf2444d1c2b_1_464_257_895_343_0.jpg](images/01928a40-c638-783b-803a-1bf2444d1c2b_1_464_257_895_343_0.jpg)
 
 下面的引理说明了几个保持凸性的凸集上的运算。这些运算对于证明本节中的几个后续结果将非常有用。
 
-引理B.5(保持集合凸性的运算)${The}\;{following}\;{operations}\;{on}\;{convex}$ 集合保持凸性:
+> [!lemma] 引理B.5 保持集合凸性的运算
+> ${The}\;{following}\;{operations}\;{on}\;{convex}$ 集合保持凸性:
+> - 设 ${\left\{ {\mathcal{C}}_{i}\right\} }_{i \in I}$ 为任意集合族，其中对于所有 $i \in I$ ，集合 ${\mathcal{C}}_{i}$ 是凸的。那么这些集合的交集 $\mathop{\bigcap }\limits_{{i \in I}}{\mathcal{C}}_{i}$ 也是凸的。
+> - 设 ${\mathcal{C}}_{1}$ 和 ${\mathcal{C}}_{2}$ 为凸集，那么它们的和 ${\mathcal{C}}_{1} + {\mathcal{C}}_{2} = \left\{ {{x}_{1} + {x}_{2} : {x}_{1} \in {\mathcal{C}}_{1},{x}_{2} \in {\mathcal{C}}_{2}}\right\}$ (当定义时)是凸的。
+> - 设 ${\mathcal{C}}_{1}$ 和 ${\mathcal{C}}_{2}$ 为凸集，那么它们的笛卡尔积 $\left( {{\mathcal{C}}_{1} \times {\mathcal{C}}_{2}}\right)$ 也是凸的。
+> - 任意凸集 $\mathcal{C}$ 的投影也是凸的。
 
-- 设 ${\left\{ {\mathcal{C}}_{i}\right\} }_{i \in I}$ 为任意集合族，其中对于所有 $i \in I$ ，集合 ${\mathcal{C}}_{i}$ 是凸的。那么这些集合的交集 $\mathop{\bigcap }\limits_{{i \in I}}{\mathcal{C}}_{i}$ 也是凸的。
+证明:
 
-- 设 ${\mathcal{C}}_{1}$ 和 ${\mathcal{C}}_{2}$ 为凸集，那么它们的和 ${\mathcal{C}}_{1} + {\mathcal{C}}_{2} = \left\{ {{x}_{1} + {x}_{2} : {x}_{1} \in {\mathcal{C}}_{1},{x}_{2} \in {\mathcal{C}}_{2}}\right\}$ (当定义时)是凸的。
-
-- 设 ${\mathcal{C}}_{1}$ 和 ${\mathcal{C}}_{2}$ 为凸集，那么它们的笛卡尔积 $\left( {{\mathcal{C}}_{1} \times {\mathcal{C}}_{2}}\right)$ 也是凸的。
-
-- 任意凸集 $\mathcal{C}$ 的投影也是凸的。
-
-证明:第一个性质成立，因为对于任意的 $x, y \in \mathop{\bigcap }\limits_{{i \in I}}{\mathcal{C}}_{i}$ 和任意的 $\alpha \in \left\lbrack {0,1}\right\rbrack$ ，由于 ${\mathcal{C}}_{i}$ 的凸性，我们有 ${\alpha x} +$ $\left( {1 - \alpha }\right) y \in {\mathcal{C}}_{i}$ 对于任意的 $i \in I$ 成立。
+第一个性质成立，因为对于任意的 $x, y \in \mathop{\bigcap }\limits_{{i \in I}}{\mathcal{C}}_{i}$ 和任意的 $\alpha \in \left\lbrack {0,1}\right\rbrack$ ，由于 ${\mathcal{C}}_{i}$ 的凸性，我们有 ${\alpha x} +$ $\left( {1 - \alpha }\right) y \in {\mathcal{C}}_{i}$ 对于任意的 $i \in I$ 成立。
 
 第二个性质成立，因为对于任意的 $\left( {{x}_{1} + {x}_{2}}\right) ,\left( {{y}_{1} + {y}_{2}}\right) \in \left( {{\mathcal{C}}_{1} + {\mathcal{C}}_{2}}\right)$ 我们有 $\alpha \left( {{x}_{1} + }\right.$ $\left. {x}_{2}\right) + \left( {1 - \alpha }\right) \left( {{y}_{1} + {y}_{2}}\right) = \left( {\alpha {x}_{1} + \left( {1 - \alpha }\right) {y}_{1} + \alpha {x}_{2} + \left( {1 - \alpha }\right) {y}_{2}}\right) \in \left( {{\mathrm{C}}_{1} + {\mathrm{C}}_{2}}\right)$ ，这是由于 $\alpha {x}_{1} + \left( {1 - \alpha }\right) {y}_{1} \in {\mathcal{C}}_{1}$ 和 $\alpha {x}_{2} + \left( {1 - \alpha }\right) {y}_{2} \in {\mathcal{C}}_{2}$ 。
 
@@ -36,59 +33,59 @@ $$
 
 注意，许多集合运算可能不会保持凸性。考虑 $\mathbb{R} : \left\lbrack {a, b}\right\rbrack \cup \left\lbrack {c, d}\right\rbrack$ 上的不相交区间的并集，其中 $a < b < c < d$ 。显然 $\left\lbrack {a, b}\right\rbrack$ 和 $\left\lbrack {c, d}\right\rbrack$ 是凸的，然而我们有 $\frac{1}{2}b + \left( {1 - \frac{1}{2}}\right) c \notin \left( {\left\lbrack {a, b}\right\rbrack \cup \left\lbrack {c, d}\right\rbrack }\right)$ 。
 
-定义 B.6(凸包)一个点集 $X \subseteq {\mathbb{R}}^{N}$ 的凸包 conv(X) 是包含 $x$ 的最小凸集，也可以等价地定义如下:
-
-$$
-\operatorname{conv}\left( \mathcal{X}\right) = \left\{ {\mathop{\sum }\limits_{{i = 1}}^{m}{\alpha }_{i}{\mathbf{x}}_{i} : m \geq 1,\forall i \in \left\lbrack m\right\rbrack ,{\mathbf{x}}_{i} \in \mathcal{X},{\alpha }_{i} \geq 0,\mathop{\sum }\limits_{{i = 1}}^{m}{\alpha }_{i} = 1}\right\} . \tag{B.1}
-$$
+> [!definition] 定义 B.6 凸包
+> 一个点集 $X \subseteq {\mathbb{R}}^{N}$ 的凸包 conv(X) 是包含 $x$ 的最小凸集，也可以等价地定义如下:
+> $$
+> \operatorname{conv}\left( \mathcal{X}\right) = \left\{ {\mathop{\sum }\limits_{{i = 1}}^{m}{\alpha }_{i}{\mathbf{x}}_{i} : m \geq 1,\forall i \in \left\lbrack m\right\rbrack ,{\mathbf{x}}_{i} \in \mathcal{X},{\alpha }_{i} \geq 0,\mathop{\sum }\limits_{{i = 1}}^{m}{\alpha }_{i} = 1}\right\} . \tag{B.1}
+> $$
 
 令 Epi $f$ 表示函数 $f : X \rightarrow \mathbb{R}$ 的上图形，即位于其图形上方的点集:$\{ \left( {x, y}\right) : x \in X, y \geq f\left( x\right) \}$ 。
 
+图 B.2
+所有凸函数满足的一阶性质的图示。
 ![01928a40-c638-783b-803a-1bf2444d1c2b_2_545_255_712_530_0.jpg](images/01928a40-c638-783b-803a-1bf2444d1c2b_2_545_255_712_530_0.jpg)
 
-图 B.2
-
-所有凸函数满足的一阶性质的图示。
-
-定义 B.7(凸函数)令 $X$ 为一个凸集。如果函数 $f : X \rightarrow \mathbb{R}$ 的上图形 Epi $f$ 是一个凸集，或者等价地，对于所有的 $\mathbf{x},\mathbf{y} \in X$ 和 $\alpha \in \left\lbrack {0,1}\right\rbrack$ ，
-
-$$
-f\left( {\alpha \mathbf{x} + \left( {1 - \alpha }\right) \mathbf{y}}\right) \leq {\alpha f}\left( \mathbf{x}\right) + \left( {1 - \alpha }\right) f\left( \mathbf{y}\right) . \tag{B.2}
-$$
+> [!definition] 定义 B.7 凸函数
+> 令 $X$ 为一个凸集。如果函数 $f : X \rightarrow \mathbb{R}$ 的上图形 Epi $f$ 是一个凸集，或者等价地，对于所有的 $\mathbf{x},\mathbf{y} \in X$ 和 $\alpha \in \left\lbrack {0,1}\right\rbrack$ ，
+> $$
+> f\left( {\alpha \mathbf{x} + \left( {1 - \alpha }\right) \mathbf{y}}\right) \leq {\alpha f}\left( \mathbf{x}\right) + \left( {1 - \alpha }\right) f\left( \mathbf{y}\right) . \tag{B.2}
+> $$
 
 $f$ 在不等式 (B.2) 对于所有 $\mathbf{x} \neq \mathbf{y}$ 和 $\alpha \in \left( {0,1}\right)$ 严格成立时，被称为严格凸。当 $- f$ 是(严格)凸时，$f$ 被称为(严格)凹。图 B.1 展示了凸和凹函数的简单示例。凸函数也可以用其一阶或二阶微分来表征。
 
-定理 B.8 设 $f$ 是一个可微函数，那么 $f$ 是凸的当且仅当 $\operatorname{dom}\left( f\right)$ 是凸的，并且以下不等式成立:
-
-$$
-\forall \mathbf{x},\mathbf{y} \in \operatorname{dom}\left( f\right) , f\left( \mathbf{y}\right) - f\left( \mathbf{x}\right) \geq \nabla f\left( \mathbf{x}\right) \cdot \left( {\mathbf{y} - \mathbf{x}}\right) . \tag{B.3}
-$$
+> [!definition] 定理 B.8 
+> 设 $f$ 是一个可微函数，那么 $f$ 是凸的当且仅当 $\operatorname{dom}\left( f\right)$ 是凸的，并且以下不等式成立:
+> $$
+> \forall \mathbf{x},\mathbf{y} \in \operatorname{dom}\left( f\right) , f\left( \mathbf{y}\right) - f\left( \mathbf{x}\right) \geq \nabla f\left( \mathbf{x}\right) \cdot \left( {\mathbf{y} - \mathbf{x}}\right) . \tag{B.3}
+> $$
 
 性质 (B.3) 由图 B.2 说明:对于凸函数，其在 $\mathbf{x}$ 处的切平面总是位于图形下方。
 
-定理 B.9 设 $f$ 是一个二阶可微函数，那么 $f$ 是凸的当且仅当 $\operatorname{dom}\left( f\right)$ 是凸的且其 Hessian 矩阵是半正定的:
-
-$$
-\forall \mathbf{x} \in \operatorname{dom}\left( f\right) ,{\nabla }^{2}f\left( \mathbf{x}\right) \succcurlyeq 0.
-$$
+> [!definition] 定理 B.9 
+> 设 $f$ 是一个二阶可微函数，那么 $f$ 是凸的当且仅当 $\operatorname{dom}\left( f\right)$ 是凸的且其 Hessian 矩阵是半正定的:
+> $$
+> \forall \mathbf{x} \in \operatorname{dom}\left( f\right) ,{\nabla }^{2}f\left( \mathbf{x}\right) \succcurlyeq 0.
+> $$
 
 请记住，一个对称矩阵是半正定的当且仅当它的所有特征值都是非负的。进一步注意，当 $f$ 是标量时，该定理表明 $f$ 是凸的当且仅当其二阶导数总是非负的，即对于所有 $x \in \operatorname{dom}\left( f\right) ,{f}^{\prime \prime }\left( x\right) \geq 0$。
 
-示例 B.10(线性函数)任何线性函数 $f$ 既凸又凹，因为根据线性定义，方程 (B.2) 对于 $f$ 和 $- f$ 都以等式形式成立。
+> [!example] 示例 B.10(线性函数)
+> 任何线性函数 $f$ 既凸又凹，因为根据线性定义，方程 (B.2) 对于 $f$ 和 $- f$ 都以等式形式成立。
 
-示例 B.11(二次函数)定义在 $\mathbb{R}$ 上的函数 $f : x \mapsto {x}^{2}$ 是凸的，因为它是二阶可微的且对于所有 $x \in \mathbb{R},{f}^{\prime \prime }\left( x\right) = 2 > 0$。
+> [!example] 示例 B.11(二次函数)
+> 定义在 $\mathbb{R}$ 上的函数 $f : x \mapsto {x}^{2}$ 是凸的，因为它是二阶可微的且对于所有 $x \in \mathbb{R},{f}^{\prime \prime }\left( x\right) = 2 > 0$。
 
-示例 B.12(范数)任何在凸集 $\parallel \cdot \parallel$ 上定义的范数 $x$ 都是凸的，因为根据三角不等式和范数的齐次性质，对于所有 $\alpha \in \left\lbrack {0,1}\right\rbrack ,\mathbf{x},\mathbf{y} \in \mathcal{X}$ ，我们可以写出
+> [!example] 示例 B.12(范数)
+> 任何在凸集 $\parallel \cdot \parallel$ 上定义的范数 $x$ 都是凸的，因为根据三角不等式和范数的齐次性质，对于所有 $\alpha \in \left\lbrack {0,1}\right\rbrack ,\mathbf{x},\mathbf{y} \in \mathcal{X}$ ，我们可以写出
+> $$
+> \parallel \alpha \mathbf{x} + \left( {1 - \alpha }\right) \mathbf{y}\parallel \leq \parallel \alpha \mathbf{x}\parallel + \parallel \left( {1 - \alpha }\right) \mathbf{y}\parallel = \alpha \parallel \mathbf{x}\parallel + \left( {1 - \alpha }\right) \parallel \mathbf{y}\parallel .
+> $$
 
-$$
-\parallel \alpha \mathbf{x} + \left( {1 - \alpha }\right) \mathbf{y}\parallel \leq \parallel \alpha \mathbf{x}\parallel + \parallel \left( {1 - \alpha }\right) \mathbf{y}\parallel = \alpha \parallel \mathbf{x}\parallel + \left( {1 - \alpha }\right) \parallel \mathbf{y}\parallel .
-$$
-
-示例 B.13(最大函数)定义在所有 $\mathbf{x} \in {\mathbb{R}}^{N}$ 上的最大函数 $\mathbf{x} \mapsto \mathop{\max }\limits_{{j \in \left\lbrack N\right\rbrack }}{\mathbf{x}}_{j}$ 是凸的。对于所有 $\alpha \in \left\lbrack {0,1}\right\rbrack ,\mathbf{x},\mathbf{y} \in {\mathbb{R}}^{N}$ ，由于最大值的次可加性，我们可以写出
-
-$$
-\mathop{\max }\limits_{j}\left( {\alpha {\mathbf{x}}_{j} + \left( {1 - \alpha }\right) {\mathbf{y}}_{j}}\right) \leq \mathop{\max }\limits_{j}\left( {\alpha {\mathbf{x}}_{j}}\right) + \mathop{\max }\limits_{j}\left( {\left( {1 - \alpha }\right) {\mathbf{y}}_{j}}\right) = \alpha \mathop{\max }\limits_{j}\left( {\mathbf{x}}_{j}\right) + \left( {1 - \alpha }\right) \mathop{\max }\limits_{j}\left( {\mathbf{y}}_{j}\right) .
-$$
+> [!example] 示例 B.13(最大函数)
+> 定义在所有 $\mathbf{x} \in {\mathbb{R}}^{N}$ 上的最大函数 $\mathbf{x} \mapsto \mathop{\max }\limits_{{j \in \left\lbrack N\right\rbrack }}{\mathbf{x}}_{j}$ 是凸的。对于所有 $\alpha \in \left\lbrack {0,1}\right\rbrack ,\mathbf{x},\mathbf{y} \in {\mathbb{R}}^{N}$ ，由于最大值的次可加性，我们可以写出
+> $$
+> \mathop{\max }\limits_{j}\left( {\alpha {\mathbf{x}}_{j} + \left( {1 - \alpha }\right) {\mathbf{y}}_{j}}\right) \leq \mathop{\max }\limits_{j}\left( {\alpha {\mathbf{x}}_{j}}\right) + \mathop{\max }\limits_{j}\left( {\left( {1 - \alpha }\right) {\mathbf{y}}_{j}}\right) = \alpha \mathop{\max }\limits_{j}\left( {\mathbf{x}}_{j}\right) + \left( {1 - \alpha }\right) \mathop{\max }\limits_{j}\left( {\mathbf{y}}_{j}\right) .
+> $$
 
 证明函数的凸性或凹性的一个有用方法是利用复合规则。为了简化表述，我们将假设函数具有二阶可导性，尽管即使没有这个假设，结果也可以被证明。
 
