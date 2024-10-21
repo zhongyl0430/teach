@@ -1,6 +1,5 @@
 ---
-tags:
-  - teach
+tags: []
 title: 2 Probability
 ---
 # Content

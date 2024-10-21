@@ -8,6 +8,6 @@ title: 线性代数与解析几何
 - [[Linear algebra/1/index|1 行列式]]
 - [[Linear algebra/2/index|2 矩阵]]
 - [[Linear algebra/3/index|3 向量代数与几何应用]]
-
+- [[teach/Linear algebra/4/index|4 线性方程组]]
 
 ![[QR-LA-homepage.png]]

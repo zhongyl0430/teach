@@ -1,8 +1,6 @@
 ---
 tags:
-  - teach
-  - "#ML"
-  - "#Ch2"
+  - "#teach/ML"
 title: 2 PAC学习框架
 ---
 

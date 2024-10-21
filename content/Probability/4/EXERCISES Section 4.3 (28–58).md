@@ -1,42 +1,45 @@
 # 28
 Let $Z$ be a standard normal random variable and calculate the following probabilities, drawing pictures wherever appropriate.
 
-a. $P\left( {0 \leq Z \leq {2.17}}\right)$ b. $P\left( {0 \leq Z \leq 1}\right)$
-
-c. $P\left( {-{2.50} \leq Z \leq 0}\right)$ d. $P\left( {-{2.50} \leq Z \leq {2.50}}\right)$
-
-e. $P\left( {Z \leq {1.37}}\right)$ f. $P\left( {-{1.75} \leq Z}\right)$
-
-g. $P\left( {-{1.50} \leq Z \leq {2.00}}\right)$ h. $P\left( {{1.37} \leq Z \leq {2.50}}\right)$
-
-i. $P\left( {{1.50} \leq Z}\right)$ j. $P\left( {\left| Z\right| \leq {2.50}}\right)$
+a. $P\left( {0 \leq Z \leq {2.17}}\right)$ 
+b. $P\left( {0 \leq Z \leq 1}\right)$
+c. $P\left( {-{2.50} \leq Z \leq 0}\right)$ 
+d. $P\left( {-{2.50} \leq Z \leq {2.50}}\right)$
+e. $P\left( {Z \leq {1.37}}\right)$ 
+f. $P\left( {-{1.75} \leq Z}\right)$
+g. $P\left( {-{1.50} \leq Z \leq {2.00}}\right)$ 
+h. $P\left( {{1.37} \leq Z \leq {2.50}}\right)$
+i. $P\left( {{1.50} \leq Z}\right)$ 
+j. $P\left( {\left| Z\right| \leq {2.50}}\right)$
 # 29
 In each case, determine the value of the constant $c$ that makes the probability statement correct.
 
-a. $\Phi \left( c\right) = {.9838}$ b. $P\left( {0 \leq Z \leq c}\right) = {.291}$
-
-c. $P\left( {c \leq Z}\right) = {.121}$ d. $P\left( {-c \leq Z \leq c}\right) = {.668}$
-
+a. $\Phi \left( c\right) = {.9838}$ 
+b. $P\left( {0 \leq Z \leq c}\right) = {.291}$
+c. $P\left( {c \leq Z}\right) = {.121}$ 
+d. $P\left( {-c \leq Z \leq c}\right) = {.668}$
 e. $P\left( {c \leq \left| Z\right| }\right) = {.016}$
 # 30
 Find the following percentiles for the standard normal distribution. Interpolate where appropriate.
 
-a. 91st b. 9th c. 75th
-
-d. ${25}\mathrm{{th}}$ e. 6th
+a. 91st 
+b. 9th 
+c. 75th
+d. ${25}\mathrm{{th}}$ 
+e. 6th
 # 31
 Determine ${z}_{\alpha }$ for the following values of $\alpha$ :
 
-a. $\alpha = {.0055}$ b. $\alpha = {.09}$
-
+a. $\alpha = {.0055}$ 
+b. $\alpha = {.09}$
 c. $\alpha = {.663}$
 # 32
 Suppose the force acting on a column that helps to support a building is a normally distributed random variable $X$ with mean value ${15.0}\mathrm{{kips}}$ and standard deviation 1.25 kips. Compute the following probabilities by standardizing and then using Table A.3.
 
-a. $P\left( {X \leq {15}}\right)$ b. $P\left( {X \leq {17.5}}\right)$
-
-c. $P\left( {X \geq {10}}\right)$ d. $P\left( {{14} \leq X \leq {18}}\right)$
-
+a. $P\left( {X \leq {15}}\right)$ 
+b. $P\left( {X \leq {17.5}}\right)$
+c. $P\left( {X \geq {10}}\right)$ 
+d. $P\left( {{14} \leq X \leq {18}}\right)$
 e. $P\left( {\left| {X - {15}}\right| \leq 3}\right)$
 # 33
 Mopeds (small motorcycles with an engine capacity below ${50}{\mathrm{\;{cm}}}^{3}$ ) are very popular in Europe because of their mobility, ease of operation, and low cost. The article "Procedure to Verify the Maximum Speed of Automatic Transmission Mopeds in Periodic Motor Vehicle Inspections" (J. of Automobile Engr., 2008: 1615-1623) described a rolling bench test for determining maximum vehicle speed. A normal distribution with mean value ${46.8}\mathrm{\;{km}}/\mathrm{h}$ and standard deviation ${1.75}\mathrm{\;{km}}/\mathrm{h}$ is postulated.

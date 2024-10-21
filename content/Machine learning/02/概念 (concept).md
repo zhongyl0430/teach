@@ -1,8 +1,6 @@
 ---
 tags:
-  - teach
-  - "#ML"
-  - "#Ch2"
+  - "#teach/ML"
 ---
 - 一个概念 $c : \mathcal{X} \rightarrow \mathcal{Y}$ 是从 $\mathcal{X}$ 到 $\mathcal{Y}$ 的映射。
 	- 由于 $\mathcal{Y} = \{ 0,1\}$，我们可以将 $c$ 与 $x$ 中取值为1的子集等同起来。

@@ -163,7 +163,7 @@ Long-sleeved
 # 52
 19. A system consists of two identical pumps, #1 and #2. If one pump fails, the system will still operate. However, because of the added strain, the remaining pump is now more likely to fail than was originally the case. That is, $r = P\left( {\# 2\text{fails} \mid \# 1\text{fails}}\right) > P\left( {\# 2\text{fails}}\right) = q$ . If at least one pump fails by the end of the pump design life in $7\%$ of all systems and both pumps fail during that period in only $1\%$ , what is the probability that pump #1 will fail during the pump design life?
 
-20. 一个系统由两个相同的泵组成，编号为 #1 和 #2。如果一个泵失效，系统仍然可以运行。然而，由于增加了负荷，剩下的泵现在比原来更容易失效。也就是说 $r = P\left( {\# 2\text{fails} \mid \# 1\text{fails}}\right) > P\left( {\# 2\text{fails}}\right) = q$ 。如果在泵的设计寿命结束时，所有系统中有 $7\%$ 的系统至少有一个泵失效，而在这个期间内两个泵都失效的只有 $1\%$ ，那么在泵的设计寿命期间泵 #1 失效的几率是多少？
+20. 一个系统由两个相同的泵组成，编号为 #1 和 2。如果一个泵失效，系统仍然可以运行。然而，由于增加了负荷，剩下的泵现在比原来更容易失效。也就是说 $r = P\left( {\# 2\text{fails} \mid \# 1\text{fails}}\right) > P\left( {\# 2\text{fails}}\right) = q$ 。如果在泵的设计寿命结束时，所有系统中有 $7\%$ 的系统至少有一个泵失效，而在这个期间内两个泵都失效的只有 $1\%$ ，那么在泵的设计寿命期间泵 #1 失效的几率是多少？
 
 # 53
 21. A certain shop repairs both audio and video components. Let $A$ denote the event that the next component brought in for repair is an audio component, and let $B$ be the event that the next component is a compact disc player (so the event $B$ is contained in $A$ ). Suppose that $P\left( A\right) = {.6}$ and $P\left( B\right) = {.05}$ . What is $P\left( {B \mid A}\right)$ ?

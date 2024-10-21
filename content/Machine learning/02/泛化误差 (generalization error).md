@@ -1,8 +1,6 @@
 ---
 tags:
-  - teach
-  - "#ML"
-  - "#Ch2"
+  - "#teach/ML"
 ---
 > [!definition] 泛化误差 (generalization error)
 > 给定

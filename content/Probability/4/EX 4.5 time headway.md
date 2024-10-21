@@ -11,8 +11,8 @@ Figure 4.4
 The density curve for time headway in Example 4.5
 ![01925166-48c0-7eca-9860-67f13d0848b1_4_744_1776_913_389_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_4_744_1776_913_389_0.jpg)
 
-There is no density associated with headway times less than ${.5}$ , and headway density decreases rapidly (exponentially fast) as $x$ increases from .5. 
-Clearly, $f\left( x\right) \geq 0$ ; to show that ${\int }_{-\infty }^{\infty }f\left( x\right) {dx} = 1$ , we use the calculus result $${\int }_{a}^{\infty }{e}^{-{kx}}{dx} = \left( {1/k}\right) {e}^{-k \cdot a} .$$
+There is no density associated with headway times less than ${.5}$, and headway density decreases rapidly (exponentially fast) as $x$ increases from .5. 
+Clearly, $f\left( x\right) \geq 0$ ; to show that ${\int }_{-\infty }^{\infty }f\left( x\right) {dx} = 1$, we use the calculus result $${\int }_{a}^{\infty }{e}^{-{kx}}{dx} = \left( {1/k}\right) {e}^{-k \cdot a} .$$
 Then
 $$
 \begin{align}
