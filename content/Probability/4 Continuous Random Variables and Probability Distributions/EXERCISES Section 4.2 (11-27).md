@@ -12,7 +12,7 @@ b. Calculate $P\left( {{.5} \leq X \leq 1}\right)$ .
 c. Calculate $P\left( {X > {1.5}}\right)$ .
 
 d. What is the median checkout duration $\widetilde{\mu }$ ? 
-- solve ${.5} = F\left( \widetilde{\mu }\right) \rbrack$
+- solve ${.5} = F\left( \widetilde{\mu }\right)$
 
 e. Obtain the density function $f\left( x\right)$ .
 

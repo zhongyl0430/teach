@@ -1,13 +1,9 @@
 # 46
 Compute the following binomial probabilities directly from the formula for $b\left( {x;n,p}\right)$ :
-
-a\. $b\left( {3;8,{.35}}\right)$
-
-b\. $b\left( {5;8,{.6}}\right)$
-
-c\. $P\left( {3 \leq X \leq 5}\right)$ when $n = 7$ and $p = {.6}$
-
-d\. $P\left( {1 \leq X}\right)$ when $n = 9$ and $p = {.1}$
+a. $b\left( {3;8,{.35}}\right)$
+b. $b\left( {5;8,{.6}}\right)$
+c. $P\left( {3 \leq X \leq 5}\right)$ when $n = 7$ and $p = {.6}$
+d. $P\left( {1 \leq X}\right)$ when $n = 9$ and $p = {.1}$
 # 47
 The article \"Should You Report That Fender-Bender?\" (Consumer Reports, Sept. 2013: 15) reported that 7 in 10 auto accidents involve a single vehicle (the article recommended always reporting to the insurance company an accident involving multiple vehicles). Suppose 15 accidents are randomly selected. Use Appendix Table A. 1 to answer each of the following questions.
 

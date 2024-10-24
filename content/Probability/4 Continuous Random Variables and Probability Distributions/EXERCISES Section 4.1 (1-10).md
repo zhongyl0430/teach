@@ -91,8 +91,6 @@ d. For any value $a$ satisfying ${.20} < a < a + 1 < {4.25}$ , what is $P\left( 
 # 8
 In commuting to work, a professor must first get on a bus near her house and then transfer to a second bus. If the waiting time (in minutes) at each stop has a uniform distribution with $A = 0$ and $B = 5$ , then it can be shown that the total waiting time $Y$ has the pdf
 
-Copyright 2016 Cangage Learning. All Rights Reserved, May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). silicorial review has deemed that any suppressed content does not materially affect the overall learning experience. Congage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
-
 $$
 f\left( y\right) = \left\{ \begin{array}{ll} \frac{1}{25}y & 0 \leq y < 5 \\ \frac{2}{5} - \frac{1}{25}y & 5 \leq y \leq {10} \\ 0 & y < 0\text{ or }y > {10} \end{array}\right.
 $$
