@@ -1,0 +1,2 @@
+If a chemical compound is randomly selected and its pH $X$ is determined, then $X$ is a continuous rv because any pH value between 0 and 14 is possible. 
+If more is known about the compound selected for analysis, then the set of possible values might be a subinterval of $\left\lbrack {0,{14}}\right\rbrack$ , such as ${5.5} \leq x \leq {6.5}$ , but $X$ would still be continuous.

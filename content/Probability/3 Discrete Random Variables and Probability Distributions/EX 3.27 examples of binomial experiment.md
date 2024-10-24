@@ -1,0 +1,3 @@
+1. Consider each of the next $n$ vehicles undergoing an emissions test, and let $S$ denote a vehicle that passes the test and $F$ denote one that fails to pass. Then this experiment satisfies Conditions 1-4. 
+2. Tossing a thumbtack $n$ times, with $S =$ point up and $F =$ point down, also results in a binomial experiment, 
+3. the experiment in which the gender ( $S$ for female and $F$ for male) is determined for each of the next $n$ children born at a particular hospital.

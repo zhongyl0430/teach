@@ -1,0 +1,14 @@
+- Let $A$ and $B$ be any two mutually exclusive events with $P\left( A\right) > 0$ . 
+- For example, for a randomly chosen automobile, let
+	- $A = \{$ the car has a four cylinder engine $\}$ 
+	- $B = \{$ the car has a six cylinder engine $\}$ . 
+- Since the events are mutually exclusive, 
+	- if $B$ occurs, 
+	- then $A$ cannot possibly have occurred, 
+	- so $P\left( {A \mid B}\right) = 0 \neq P\left( A\right)$ . 
+- The message here is that 
+	- if two events are mutually exclusive, 
+	- they cannot be independent. 
+- When $A$ and $B$ are mutually exclusive, 
+	- the information that $A$ occurred says something about $B$ (it cannot have occurred), 
+	- so independence is precluded.

@@ -1,0 +1,2 @@
+When $$h\left( X\right) = {aX} + b ,$$ the expected value and variance of $h\left( X\right)$ satisfy the same properties as in the discrete case:
+$$E\left\lbrack {h\left( X\right) }\right\rbrack = {a\mu } + b$$ and $$V\left\lbrack {h\left( X\right) }\right\rbrack = {a}^{2} \cdot {\sigma }^{2} .$$
