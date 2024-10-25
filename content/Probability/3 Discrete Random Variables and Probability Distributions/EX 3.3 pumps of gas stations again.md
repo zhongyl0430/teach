@@ -1,0 +1,11 @@
+- [[EX 2.3 pumps of gas stations]] describes an experiment to determine the number of pumps in use at two six-pump gas stations.
+- Define random variables (rv's) as follows:
+    - $X =$ the total number of pumps in use at the two stations.
+    - $Y =$ the difference between the number of pumps in use at station 1 and station 2.
+    - $U =$ the maximum number of pumps in use at the two stations.
+- If the experiment results in $\omega = (2, 3)$:
+    - $X\left((2, 3)\right) = 2 + 3 = 5$, so the observed value of $X$ is $x = 5$.
+    - The observed value of $Y$ is calculated as:
+	    - $Y = 2 - 3 = -1$, so $y = -1$.
+    - The observed value of $U$ is:
+	    - $U = \max(2, 3) = 3$, so $u = 3$.

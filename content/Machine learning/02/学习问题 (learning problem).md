@@ -1,8 +1,6 @@
 ---
 tags:
-  - teach
-  - "#ML"
-  - "#Ch2"
+  - "#teach/ML"
 ---
 - 学习者考虑一个固定的可能概念集 $\mathcal{H}$，称为**假设集 (hypothesis set)**，
 	- 这个集不一定与 $\mathcal{C}$ 重合。
