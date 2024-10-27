@@ -1,8 +1,6 @@
 ---
 tags:
-  - teach
-  - "#ML"
-  - "#Ch2"
+  - "#teach/ML"
 ---
 - 设 $n$ 为一个数，使得
 	- 表示任何元素 $x \in \mathcal{X}$ 的计算成本至多为 $O\left( n\right)$
