@@ -1,1 +1,0 @@
-Both the expected number of traps and the variance of the number of traps equal 2, and ${\sigma }_{X} = \sqrt{\mu } = \sqrt{2} = {1.414}$ .
