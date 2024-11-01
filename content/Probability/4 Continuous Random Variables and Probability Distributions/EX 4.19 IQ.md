@@ -1,4 +1,6 @@
-IQ in a particular population (as measured by a standard test) is known to be approximately normally distributed with $\mu = {100}$ and $\sigma = {15}$. 
+IQ in a particular population (as measured by a standard test) is known to be approximately normally distributed with 
+- $\mu = {100}$ 
+- $\sigma = {15}$. 
 
 > [!question] 
 > What is the probability that a randomly selected individual has an IQ of at least 125?

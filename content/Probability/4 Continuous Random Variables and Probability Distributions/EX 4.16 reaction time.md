@@ -1,4 +1,6 @@
-The time that it takes a driver to react to the brake lights on a decelerating vehicle is critical in helping to avoid rear-end collisions. The article "Fast-Rise Brake Lamp as a Collision-Prevention Device" (Ergonomics, 1993: 391-395) suggests that reaction time for an in-traffic response to a brake signal from standard brake lights can be modeled with a normal distribution having mean value 1.25 sec and standard deviation of .46 sec. 
+The time that it takes a driver to react to the brake lights on a decelerating vehicle is critical in helping to avoid rear-end collisions. 
+- The article "Fast-Rise Brake Lamp as a Collision-Prevention Device" (Ergonomics, 1993: 391-395) suggests that reaction time for an in-traffic response to a brake signal from standard brake lights can be modeled with 
+- a normal distribution having mean value 1.25 sec and standard deviation of .46 sec. 
 
 > [!question] 
 > What is the probability that reaction time is between 1.00 sec and 1.75 sec? 

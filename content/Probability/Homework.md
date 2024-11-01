@@ -4,6 +4,7 @@
 3. W05 [link](https://send2me.cn/UKYRDZr_/REy_uF3A9uR3ow): [[EXERCISES Section 2.4 (45-69)#47|47]], [[EXERCISES Section 2.4 (45-69)#52|52]], [[EXERCISES Section 2.4 (45-69)#56|56]], [[EXERCISES Section 2.4 (45-69)#62|62]], [[EXERCISES Section 2.5 (70-89)#70|70]], [[EXERCISES Section 2.5 (70-89)#73|73]],  [[EXERCISES Section 2.5 (70-89)#77|77]], [[EXERCISES Section 2.5 (70-89)#80|80]], [[EXERCISES Section 2.5 (70-89)#82|82]], [[EXERCISES Section 2.5 (70-89)#88|88]]
 4. W07 [link](https://send2me.cn/l5aqlrw2/Qj-rAjMNhyh8-w): [[EXERCISES Section 3.1 (1-10)#1|1]], [[EXERCISES Section 3.2 (11-28)#18|18]], [[EXERCISES Section 3.2 (11-28)#24|24]], [[EXERCISES Section 3.3 (29-45)#29|29]], [[EXERCISES Section 3.3 (29-45)#37|37]], [[EXERCISES Section 3.3 (29-45)#41|41]] 
 5. W09 [link](https://send2me.cn/AZb0TvLp/Q_y7x_jWgVG4OQ): [[EXERCISES Section 3.4 (46-67)#46|46]], [[EXERCISES Section 3.4 (46-67)#48|48]], [[EXERCISES Section 3.5 (68--78)#68|68]], [[EXERCISES Section 3.5 (68--78)#77|77]], [[EXERCISES Section 4.1 (1-10)#1|1]], [[EXERCISES Section 4.2 (11-27)#11|11]]
+6. W10 [link](https://send2me.cn/eCO3QpdP/TGOr3SKhfx6N3A): [[EXERCISES Section 4.2 (11-27)#12|12]], [[EXERCISES Section 4.2 (11-27)#13|13]], [[EXERCISES Section 4.2 (11-27)#17|17]], [[EXERCISES Section 4.3 (28–58)#28|28]], [[EXERCISES Section 4.3 (28–58)#28|28]]
 # MAYBE
 - Ch4
 # How

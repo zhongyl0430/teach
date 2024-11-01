@@ -1,4 +1,7 @@
-The authors of "Assessment of Lifetime of Railway Axle" (Intl. J. of Fatigue, 2013: 40-46) used data collected from an experiment with a specified initial crack length and number of loading cycles to propose a normal distribution with mean value ${5.496}\mathrm{\;{mm}}$ and standard deviation ${.067}\mathrm{\;{mm}}$ for the rv $X =$ final crack depth. 
+The authors of "Assessment of Lifetime of Railway Axle" (Intl. J. of Fatigue, 2013: 40-46) used data collected from an experiment with a specified initial crack length and number of loading cycles to propose a normal distribution with 
+- mean value ${5.496}\mathrm{\;{mm}}$ 
+- standard deviation ${.067}\mathrm{\;{mm}}$ 
+- for the rv $X =$ final crack depth. 
 
 > [!question] 
 > For this model, what value of final crack depth would be exceeded by only ${.5}\%$ of all cracks under these circumstances? 
