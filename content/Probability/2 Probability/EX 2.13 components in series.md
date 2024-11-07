@@ -1,7 +1,7 @@
 
 Consider a system of five identical components connected in series, as illustrated in Figure 2.3.
 
-![[01913607-292d-7d0a-a250-4b01870485a1_10_680627.jpg]]
+![[teach/Probability 1/images/01913607-292d-7d0a-a250-4b01870485a1_10_680627.jpg]]
 Figure 2.3 A system of five components connected in a series
 
 Denote 

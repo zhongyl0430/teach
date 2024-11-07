@@ -8,7 +8,7 @@ The results from sending 10 such packages (the first 10 replications) are as fol
 | Relative frequency of $A$ | 0            | .5  | .667 | .75 | .6           | .5           | .571 | .625 | .556         | .5  |
 
 Figure 2.2
-![[01913607-292d-7d0a-a250-4b01870485a1_9_580462.jpg]]
+![[teach/Probability 1/images/01913607-292d-7d0a-a250-4b01870485a1_9_580462.jpg]]
 
 Behavior of relative frequency (a) Initial fluctuation (b) Long-run stabilization
 - Figure 2.2(a) shows how the relative frequency $n ( A ) /n$ fluctuates rather substantially over the course of the first 50 replications.

@@ -31,4 +31,4 @@ This cdf is graphed in Figure 3.6.
 
 Figure 3.6 
 A graph of $F\left( x\right)$ for Example 3.14
-![image](images/019165cb-e657-75f5-b964-f15ddb80567f_12_594421.jpg)
+![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_12_594421.jpg)

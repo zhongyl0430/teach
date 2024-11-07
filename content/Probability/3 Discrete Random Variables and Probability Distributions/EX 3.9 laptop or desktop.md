@@ -20,5 +20,5 @@ Figure 3.2 is a picture of this pmf, called a *line graph*.
 - $p\left( x\right)$ is a Bernoulli pmf.
 
 Figure 3.2
-![image](images/019165cb-e657-75f5-b964-f15ddb80567f_7_224423.jpg)
+![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_7_224423.jpg)
 The line graph for the pmf in Example 3.9

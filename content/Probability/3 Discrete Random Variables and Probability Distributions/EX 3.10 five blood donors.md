@@ -31,5 +31,5 @@ where any $y$ value not listed receives zero probability.
 Figure 3.3 shows a line graph of the pmf.
 
 Figure 3.3
-![image](images/019165cb-e657-75f5-b964-f15ddb80567f_8_160131.jpg)
+![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_8_160131.jpg)
 The line graph for the pmf in Example 3.10

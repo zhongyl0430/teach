@@ -23,7 +23,7 @@
 - The tree diagram for this problem is in Figure 2.12.
 
 Figure 2.12 Tree diagram for the rare-disease problem
-![](01913607-292d-7d0a-a250-4b01870485a1_31_864460.jpg)
+![](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_31_864460.jpg)
 
 - Next to each branch corresponding to a positive test result, 
 	- the multiplication rule yields the recorded probabilities. 

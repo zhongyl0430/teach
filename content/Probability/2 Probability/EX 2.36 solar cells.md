@@ -1,7 +1,7 @@
 The article "Reliability Evaluation of Solar Photovoltaic Arrays" (Solar Energy, 2002: 129-141) presents various configurations of solar photovoltaic arrays consisting of crystalline silicon solar cells. 
 
 Figure 2.14 
-![](01913607-292d-7d0a-a250-4b01870485a1_37_425535.jpg)
+![](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_37_425535.jpg)
 
 ^fig-2-14
 

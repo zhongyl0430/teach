@@ -18,6 +18,6 @@ Figure 4.1
 (a) Probability histogram of depth measured to the nearest meter; 
 (b) probability histogram of depth measured to the nearest centimeter; 
 (c) a limit of a sequence of discrete histograms
-![01925166-48c0-7eca-9860-67f13d0848b1_2_648_575_1100_243_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_2_648_575_1100_243_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_2_648_575_1100_243_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_2_648_575_1100_243_0.jpg)
 
 ^fig-4-1

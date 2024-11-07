@@ -1,5 +1,11 @@
-A bank operates both a drive-up facility and a walk-up window. On a randomly selected day, let $X =$ the proportion of time that the drive-up facility is in use (at least one customer is being served or waiting to be served) and $Y =$ the proportion of time that the walk-up window is in use. Then the set of possible values for $\left( {X, Y}\right)$ is the rectangle $D = \{ \left( {x, y}\right) : 0 \leq x \leq 1,0 \leq y \leq 1\}$. Suppose the joint pdf of $\left( {X, Y}\right)$ is given by
+A bank operates both a drive-up facility and a walk-up window. 
+On a randomly selected day, let 
+- $X =$ the proportion of time that the drive-up facility is in use (at least one customer is being served or waiting to be served)
+- $Y =$ the proportion of time that the walk-up window is in use. 
 
+Then the set of possible values for $\left( {X, Y}\right)$ is the rectangle $D = \{ \left( {x, y}\right) : 0 \leq x \leq 1,0 \leq y \leq 1\}$. 
+
+Suppose the joint pdf of $\left( {X, Y}\right)$ is given by
 $$
 f\left( {x, y}\right) = \left\{ \begin{matrix} \frac{6}{5}\left( {x + {y}^{2}}\right) & 0 \leq x \leq 1,0 \leq y \leq 1 \\ 0 & \text{ otherwise } \end{matrix}\right.
 $$

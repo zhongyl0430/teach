@@ -11,7 +11,7 @@ We will answer this assuming that on days when two batches are tested,
 Figure 2.13 displays the relevant information.
 
 Figure 2.13 Tree diagram for Example 2.35
-![Figure 2.13](01913607-292d-7d0a-a250-4b01870485a1_36_681895.jpg)
+![Figure 2.13](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_36_681895.jpg)
 
 $$
 \begin{aligned}

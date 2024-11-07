@@ -1,3 +1,5 @@
 [[EXAMPLE 5.5]] continued. 
 
-Because $f\left( {x, y}\right)$ has the form of a product, $X$ and $Y$ would appear to be independent. However, although ${f}_{X}\left( {3/4}\right) = {f}_{Y}\left( {3/4}\right) = 9/{16}, f\left( {3/4,3/4}\right) = 0 \neq 9/{16} \cdot 9/{16}$, so the variables are not in fact independent. To be independent, $f\left( {x, y}\right)$ must have the form $g\left( x\right) \cdot h\left( y\right)$ and the region of positive density must be a rectangle whose sides are parallel to the coordinate axes.
+Because $f\left( {x, y}\right)$ has the form of a product, $X$ and $Y$ would appear to be independent. 
+However, although ${f}_{X}\left( {3/4}\right) = {f}_{Y}\left( {3/4}\right) = 9/{16}$, $f\left( {3/4,3/4}\right) = 0 \neq 9/{16} \cdot 9/{16}$, so the variables are not in fact independent. 
+To be independent, $f\left( {x, y}\right)$ must have the form $g\left( x\right) \cdot h\left( y\right)$ and the region of positive density must be a rectangle whose sides are parallel to the coordinate axes.

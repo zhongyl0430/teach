@@ -16,7 +16,7 @@ The graphs of both $f\left( x\right)$ and $F\left( x\right)$ appear in Figure 4.
 
 Figure 4.11 
 The pdf and cdf for Example 4.9
-![01925166-48c0-7eca-9860-67f13d0848b1_11_632_182_904_297_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_11_632_182_904_297_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_11_632_182_904_297_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_11_632_182_904_297_0.jpg)
 
 The $\left( {100p}\right)$ th percentile of this distribution satisfies the equation
 $$

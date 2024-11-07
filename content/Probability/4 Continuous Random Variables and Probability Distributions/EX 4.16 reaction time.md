@@ -30,7 +30,7 @@ This is illustrated in Figure 4.22.
 
 Figure 4.22 
 Normal curves for Example 4.16
-![01925166-48c0-7eca-9860-67f13d0848b1_21_603_1784_953_384_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_21_603_1784_953_384_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_21_603_1784_953_384_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_21_603_1784_953_384_0.jpg)
 
 Similarly, if we view 2 sec as a critically long reaction time, the probability that actual reaction time will exceed this value is
 $$

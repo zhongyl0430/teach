@@ -12,7 +12,7 @@ So the normal curve is an approximation to a discrete probability histogram, as 
 
 Figure 4.24 
 A normal approximation to a discrete distribution
-![01925166-48c0-7eca-9860-67f13d0848b1_24_994_184_409_237_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_24_994_184_409_237_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_24_994_184_409_237_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_24_994_184_409_237_0.jpg)
 
 The rectangles of the histogram are centered at integers. 
 IQs of at least 125 correspond to rectangles beginning at 124.5, as shaded in Figure 4.24. 

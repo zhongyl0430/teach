@@ -20,4 +20,4 @@ The pairs $\left( {-{2.97},{5.64}}\right) ,\left( {-{1.82},{6.22}}\right) ,\ldot
 
 Figure 4.38 
 A Weibull probability plot of the insulation lifetime data
-![01925166-48c0-7eca-9860-67f13d0848b1_50_875_1368_644_401_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_50_875_1368_644_401_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_50_875_1368_644_401_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_50_875_1368_644_401_0.jpg)

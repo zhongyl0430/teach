@@ -32,4 +32,4 @@ A graph of this cdf is shown in Figure 3.5.
 
 Figure 3.5 
 A graph of the cdf of Example 3.13
-![image](images/019165cb-e657-75f5-b964-f15ddb80567f_11_550958.jpg)
+![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_11_550958.jpg)

@@ -307,7 +307,7 @@ A function $g\left( x\right)$ is convex if the chord connecting any two points o
 - Hint: The equation of the tangent line at $x = \mu$ is $y = g\left( \mu \right) + {g}^{\prime }\left( \mu \right) \cdot \left( {x - \mu }\right)$ . Use the condition of convexity, substitute $X$ for $x$ , and take expected values. 
 - Note: Unless $g\left( x\right)$ is linear, the resulting inequality (usually called Jensen's inequality) is strict $\left( { < \text{rather than} \leq }\right)$ ; it is valid for both continuous and discrete rv's.
 
-![01925166-48c0-7eca-9860-67f13d0848b1_56_1227_180_352_314_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_56_1227_180_352_314_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_56_1227_180_352_314_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_56_1227_180_352_314_0.jpg)
 # 126
 Let $X$ have a Weibull distribution with parameters $\alpha = 2$ and $\beta$ . Show that $Y = 2{X}^{2}/{\beta }^{2}$ has a chi-squared distribution with $\nu = 2$ . 
 - Hint: The cdf of $Y$ is $P\left( {Y \leq y}\right)$ ; express this probability in the form $P\left( {X \leq g\left( y\right) }\right)$ , use the fact that $X$ has a cdf of the form in Expression (4.12), and differentiate with respect to $y$ to obtain the pdf of $Y$ .

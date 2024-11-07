@@ -9,7 +9,7 @@ The pdf is graphed in Figure 4.3.
 
 Figure 4.3 
 The pdf and probability from Example 4.4
-![01925166-48c0-7eca-9860-67f13d0848b1_3_451_922_1184_286_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_3_451_922_1184_286_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_3_451_922_1184_286_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_3_451_922_1184_286_0.jpg)
 
 ^fig-4-3
 

@@ -14,7 +14,7 @@ The next result, the **addition rule** for a double union probability, shows how
 Note first that $A \cup B$ can be decomposed into two disjoint events, $A$ and $B \cap {A}'$; the latter is the part of $B$ that lies outside $A$ (see [[#^fig-2-4|Figure 2.4]]).
 
 Figure 2.4 Representing $A \cup B$ as a union of disjoint events
-![[01913607-292d-7d0a-a250-4b01870485a1_11_871099.jpg]]
+![[teach/Probability 1/images/01913607-292d-7d0a-a250-4b01870485a1_11_871099.jpg]]
 
 ^fig-2-4
 

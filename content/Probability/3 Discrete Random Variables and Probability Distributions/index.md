@@ -9,7 +9,7 @@ title: 3 Discrete Random Variables and Probability Distributions
 - [[3.5 Hypergeometric and Negative Binomial Distributions]]
 - [[3.6 The Poisson Probability Distribution]]
 - [[Supplementary Exercises (94-122)]]
-- [[teach/Probability/3 Discrete Random Variables and Probability Distributions/BIBLIOGRAPHY|BIBLIOGRAPHY]]
+- [[BIBLIOGRAPHY|BIBLIOGRAPHY]]
 # Introduction
 Statistical analysis of experiments
     - Focus on numerical aspects of data, regardless of outcome type (qualitative or quantitative)

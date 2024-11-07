@@ -1,4 +1,4 @@
-- [[EX 2.3 pumps of gas stations]] describes an experiment to determine the number of pumps in use at two six-pump gas stations.
+- [[teach/Probability 1/2 Probability/EX 2.3 pumps of gas stations]] describes an experiment to determine the number of pumps in use at two six-pump gas stations.
 - Define random variables (rv's) as follows:
     - $X =$ the total number of pumps in use at the two stations.
     - $Y =$ the difference between the number of pumps in use at station 1 and station 2.

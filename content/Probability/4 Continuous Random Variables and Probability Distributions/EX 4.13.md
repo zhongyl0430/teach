@@ -6,7 +6,7 @@ d. $P\left( {-{.38} \leq Z \leq {1.25}}\right)$,
 e. $P\left( {Z \leq 5}\right)$.
 
 Figure 4.15 Normal curve areas (probabilities) for Example 4.13
-![01925166-48c0-7eca-9860-67f13d0848b1_18_759_182_881_252_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_18_759_182_881_252_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_18_759_182_881_252_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_18_759_182_881_252_0.jpg)
 
 # a 
 $$P\left( {Z \leq {1.25}}\right) = \Phi \left( {1.25}\right) ,$$
@@ -46,7 +46,7 @@ $$
 
 Figure 4.16 
 $P\left( {-{.38} \leq Z \leq {1.25}}\right)$ as the difference between two cumulative areas
-![01925166-48c0-7eca-9860-67f13d0848b1_18_657_997_1084_233_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_18_657_997_1084_233_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_18_657_997_1084_233_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_18_657_997_1084_233_0.jpg)
 
 # e
 $P\left( {Z \leq 5}\right) = \Phi \left( 5\right)$ , the cumulative area under the $z$ curve to the left of 5 . 

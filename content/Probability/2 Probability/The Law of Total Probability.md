@@ -17,7 +17,7 @@
 - This "partitioning of $B$ " is illustrated in Figure 2.11. 
 
 Figure 2.11 Partition of $B$ by mutually exclusive and exhaustive ${A}_{i}$'s
-![](01913607-292d-7d0a-a250-4b01870485a1_29_505370.jpg)
+![](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_29_505370.jpg)
 
 Thus
 $$

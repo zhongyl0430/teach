@@ -24,7 +24,7 @@ This probability is illustrated in Figure 4.31 (from Minitab).
 
 Figure 4.31 
 Lognormal density curve with $\mu = {.353}$ and $\sigma = {.754}$
-![01925166-48c0-7eca-9860-67f13d0848b1_39_770_1331_616_420_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_39_770_1331_616_420_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_39_770_1331_616_420_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_39_770_1331_616_420_0.jpg)
 
 What value $c$ is such that only $1\%$ of all specimens have a maximum pit depth exceeding $c$ ? The desired value satisfies
 

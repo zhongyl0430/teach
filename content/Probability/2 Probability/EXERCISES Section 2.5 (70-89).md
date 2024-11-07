@@ -46,7 +46,7 @@ Two pumps connected in parallel fail independently of one another on any given d
 Consider the system of components connected as in the accompanying picture. Components 1 and 2 are connected in parallel, so that subsystem works iff either 1 or 2 works; since 3 and 4 are connected in series, that subsystem works iff both 3 and 4 work. If components work independently of one another and $P$ (component $i$ works) $= {.9}$ for $i = 1,2$ and $= {.8}$ for $i = 3,4$ , calculate $P$ (system works).
 
 
-![](01913607-292d-7d0a-a250-4b01870485a1_39_145612.jpg)
+![](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_39_145612.jpg)
 
 # 81
 Refer back to the series-parallel system configuration introduced in Example 2.36, and suppose that there are only two cells rather than three in each parallel subsystem [in Figure 2.14(a), eliminate cells 3 and 6, and renumber cells 4 and 5 as 3 and 4]. Using $P\left( {A}_{i}\right) = {.9}$ , the probability that system lifetime exceeds ${t}_{0}$ is easily seen to be .9639 . To what value would . 9 have to be changed in order to increase the system lifetime reliability from .9639 to .99 ? 

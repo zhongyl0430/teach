@@ -1,4 +1,8 @@
-Reconsider the situation of Examples 5.3 and 5.4 involving $X =$ the proportion of time that a bank’s drive-up facility is busy and $Y =$ the analogous proportion for the walk-up window. The conditional pdf of $Y$ given that $X = {.8}$ is
+Reconsider the situation of [[EXAMPLE 5.3]] and [[EXAMPLE 5.4 (EX 5.3 continued)]] involving 
+- $X =$ the proportion of time that a bank’s drive-up facility is busy
+- $Y =$ the analogous proportion for the walk-up window. 
+
+The conditional pdf of $Y$ given that $X = {.8}$ is
 $$
 {f}_{Y \mid X}\left( {y \mid {.8}}\right) = \frac{f\left( {{.8}, y}\right) }{{f}_{X}\left( {.8}\right) } = \frac{{1.2}\left( {{.8} + {y}^{2}}\right) }{{1.2}\left( {.8}\right) + {.4}} = \frac{1}{34}\left( {{24} + {30}{y}^{2}}\right) \;0 < y < 1
 $$

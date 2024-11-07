@@ -88,7 +88,7 @@ c. The event $\{ X \leq t\}$ occurs iff at least $n$ events occur in the next $t
 # 69
 A system consists of five identical components connected in series as shown:
 
-![01925166-48c0-7eca-9860-67f13d0848b1_35_955_922_665_53_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_35_955_922_665_53_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_35_955_922_665_53_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_35_955_922_665_53_0.jpg)
 
 As soon as one component fails, the entire system will fail. Suppose each component has a lifetime that is exponentially distributed with $\lambda = {.01}$ and that components fail independently of one another. Define events ${A}_{i} =$ \{ $i$ th component lasts at least $t$ hours\}, $i = 1,\ldots ,5$ , so that the ${A}_{i}\mathrm{\;s}$ are independent events. Let $X =$ the time at which the system fails-that is, the shortest (minimum) lifetime among the five components.
 

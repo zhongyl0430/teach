@@ -18,6 +18,6 @@ $$
 
 Figure 4.29 shows a graph from Minitab of the corresponding Weibull density function in which the shaded area corresponds to the probability just calculated.
 
-![01925166-48c0-7eca-9860-67f13d0848b1_38_838_492_719_429_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_38_838_492_719_429_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_38_838_492_719_429_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_38_838_492_719_429_0.jpg)
 
 Figure 4.29 Weibull density curve with threshold $= 4$ , shape $= {1.3}$ , scale $= {.8}$

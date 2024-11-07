@@ -3,7 +3,7 @@ The density function is shown in Figure 4.6.
 
 Figure 4.6 
 The pdf for a uniform distribution
-![01925166-48c0-7eca-9860-67f13d0848b1_7_665_1582_800_282_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_7_665_1582_800_282_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_7_665_1582_800_282_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_7_665_1582_800_282_0.jpg)
 
 - For $x < A$, $F\left( x\right) = 0$, 
 	- since there is no area under the graph of the density function to the left of such an $x$. 
@@ -27,4 +27,4 @@ The graph of this cdf appears in Figure 4.7.
 
 Figure 4.7 
 The cdf for a uniform distribution
-![01925166-48c0-7eca-9860-67f13d0848b1_8_944_184_504_243_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_8_944_184_504_243_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_8_944_184_504_243_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_8_944_184_504_243_0.jpg)

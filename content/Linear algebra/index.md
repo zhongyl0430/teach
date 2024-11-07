@@ -8,5 +8,6 @@ title: 线性代数与解析几何
 - [[2/index]]
 - [[3/index]]
 - [[4/index]]
+- [[5/index|5 特征值与特征向量]]
 
 ![[QR-LA-homepage.png]]

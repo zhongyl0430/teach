@@ -22,4 +22,4 @@ This is illustrated in Figure 4.23.
 
 Figure 4.23 
 Distribution of final crack depth for Example 4.18
-![01925166-48c0-7eca-9860-67f13d0848b1_23_819_905_520_288_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_23_819_905_520_288_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_23_819_905_520_288_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_23_819_905_520_288_0.jpg)

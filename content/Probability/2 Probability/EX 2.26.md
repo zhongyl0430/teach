@@ -11,7 +11,7 @@ A news magazine publishes three columns entitled "Art" $\left( A\right)$ ,"Books
 Figure 2.9 illustrates relevant probabilities.
 
 Figure 2.9 Venn diagram for Example 2.26
-![Figure 2.9](01913607-292d-7d0a-a250-4b01870485a1_26_654372.jpg)
+![Figure 2.9](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_26_654372.jpg)
 
 Consider the following four conditional probabilities:
 

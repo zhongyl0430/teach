@@ -1,7 +1,7 @@
 # 87
 The accompanying normal probability plot was constructed from a sample of 30 readings on tension for mesh screens behind the surface of video display tubes used in computer monitors. Does it appear plausible that the tension distribution is normal?
 
-![01925166-48c0-7eca-9860-67f13d0848b1_51_118_756_728_453_0.jpg](images/01925166-48c0-7eca-9860-67f13d0848b1_51_118_756_728_453_0.jpg)
+![01925166-48c0-7eca-9860-67f13d0848b1_51_118_756_728_453_0.jpg](teach/Probability%201/images/01925166-48c0-7eca-9860-67f13d0848b1_51_118_756_728_453_0.jpg)
 # 88
 A sample of 15 female collegiate golfers was selected and the clubhead velocity $\left( {\mathrm{{km}}/\mathrm{{hr}}}\right)$ while swinging a driver was determined for each one, resulting in the following data ("Hip Rotational Velocities During the Full Golf Swing," J. of Sports Science and Medicine, 2009: 296-299):
 

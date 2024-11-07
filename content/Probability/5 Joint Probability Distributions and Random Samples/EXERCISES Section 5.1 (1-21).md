@@ -1,15 +1,15 @@
 # 1
 A service station has both self-service and full-service islands. On each island, there is a single regular unleaded pump with two hoses. Let $X$ denote the number of hoses being used on the self-service island at a particular time, and let $Y$ denote the number of hoses on the full-service island in use at that time. The joint pmf of $X$ and $Y$ appears in the accompanying tabulation.
 
-| p(x, y) |    | y=0   | y=1   | y=2   |
-|---------|----|-------|-------|-------|
-|    x=0  | 0  | 0.10  | 0.04  | 0.02  |
-|    x=1  | 1  | 0.08  | 0.20  | 0.06  |
-|         | 2  | 0.06  | 0.14  | 0.30  |
+|  p(x, y)     | y=0  | y=1  | y=2  |
+| --- | ---- | ---- | ---- |
+| x = 0   | 0.10 | 0.04 | 0.02 |
+| x = 1   | 0.08 | 0.20 | 0.06 |
+| x = 2   | 0.06 | 0.14 | 0.30 |
 
-a. What is $P\left( {X = 1\text{and}Y = 1}\right)$ ?
+a. What is $P\left( {X = 1\text{ and }Y = 1}\right)$ ?
 
-b. Compute $P\left( {X \leq 1\text{and}Y \leq 1}\right)$.
+b. Compute $P\left( {X \leq 1\text{ and }Y \leq 1}\right)$.
 
 c. Give a word description of the event $\{ X \neq 0$ and $Y \neq 0\}$, and compute the probability of this event.
 
@@ -108,8 +108,11 @@ a. What is $p\left( {3,2}\right)$ ? [Hint: Each sample of size 6 is equally like
 b. Using the logic of part (a), obtain $p\left( {x, y}\right)$. (This can be thought of as a multivariate hypergeometric distribution-sampling without replacement from a finite population consisting of more than two categories.)
 
 # 9
-Each front tire on a particular type of vehicle is supposed to be filled to a pressure of ${26}\mathrm{{psi}}$. Suppose the actual air pressure in each tire is a random variable $- X$ for the right tire and $Y$ for the left tire, with joint pdf
+Each front tire on a particular type of vehicle is supposed to be filled to a pressure of ${26}\mathrm{{psi}}$. Suppose the actual air pressure in each tire is a random variable 
+- $X$ for the right tire
+-  $Y$ for the left tire, 
 
+with joint pdf
 $$
 f\left( {x, y}\right) = \left\{ \begin{matrix} K\left( {{x}^{2} + {y}^{2}}\right) & {20} \leq x \leq {30},{20} \leq y \leq {30} \\ 0 & \text{ otherwise } \end{matrix}\right.
 $$

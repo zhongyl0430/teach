@@ -38,7 +38,7 @@
 
 
 Figure 2.10 Tree diagram for Example 2.29
-![](01913607-292d-7d0a-a250-4b01870485a1_28_663477.jpg)
+![](teach/Probability%201/images/01913607-292d-7d0a-a250-4b01870485a1_28_663477.jpg)
 
 - The initial branches correspond to different brands of DVD players; 
 - there are two second-generation branches emanating from the tip of each initial branch, 

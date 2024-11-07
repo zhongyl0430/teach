@@ -161,7 +161,7 @@ Hint: First list the possible values of $Y$ , starting with the smallest, and pr
 Alvie Singer lives at 0 in the accompanying diagram and has four friends who live at $A,B,C$ , and $D$ . One day Alvie decides to go visiting, so he tosses a fair coin twice to decide which of the four to visit. Once at a friend's house, he will either return home or else proceed to one of the two adjacent houses (such as $0,A$ , or $C$ when at $B$ ), with each of the three possibilities having probability $1/3$ . In this way, Alvie continues to visit friends until he returns
 home.
 
-![image](images/019165cb-e657-75f5-b964-f15ddb80567f_15_175827.jpg)
+![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_15_175827.jpg)
 
 a\. Let $X =$ the number of times that Alvie visits a friend. Derive the pmf of $X$ .
 
