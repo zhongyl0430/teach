@@ -7,6 +7,6 @@
 6. W10 [link](https://send2me.cn/eCO3QpdP/TGOr3SKhfx6N3A): [[teach/Probability/4 Continuous Random Variables and Probability Distributions/EXERCISES Section 4.2 (11-27)#12|12]], [[teach/Probability/4 Continuous Random Variables and Probability Distributions/EXERCISES Section 4.2 (11-27)#13|13]], [[teach/Probability/4 Continuous Random Variables and Probability Distributions/EXERCISES Section 4.2 (11-27)#17|17]], [[teach/Probability/4 Continuous Random Variables and Probability Distributions/EXERCISES Section 4.3 (28–58)#28|28]], [[teach/Probability/4 Continuous Random Variables and Probability Distributions/EXERCISES Section 4.3 (28–58)#28|28]]
 7. W11 [link](https://send2me.cn/EbVwQuEm/R7qsvp37TXKCcA): Ch4: [[EXERCISES Section 4.4 (59-71)#59|59]]; Ch5: [[EXERCISES Section 5.1 (1-21)#1|1]], [[EXERCISES Section 5.1 (1-21)#9|9]]
 # MAYBE
-- Ch4
+- Ch5
 # How
 Upload homework as PDF files to JianGuoYun (the link after "W**"). 
