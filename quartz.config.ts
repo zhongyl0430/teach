@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "zhongyl0430.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
