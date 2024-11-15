@@ -143,13 +143,14 @@ a. What is the joint pmf of $X$ and $Y$ ?
 
 b. What is the probability that at most one error is made on both exams combined?
 
-c. Obtain a general expression for the probability that the total number of errors in the two exams is $m$ (where $m$ is a nonnegative integer). [Hint: $A =$ $\{ \left( {x, y}\right) : x + y = m\} = \{ \left( {m,0}\right),\left( {m - 1,1}\right),\ldots$, $\left( {1, m - 1}\right),\left( {0, m}\right) \}$. Now sum the joint pmf over $\left( {x, y}\right) \in A$ and use the binomial theorem, which says that
+c. Obtain a general expression for the probability that the total number of errors in the two exams is $m$ (where $m$ is a nonnegative integer). 
+Hint: $A =$ $\{ \left( {x, y}\right) : x + y = m\} = \{ \left( {m,0}\right),\left( {m - 1,1}\right),\ldots$, $\left( {1, m - 1}\right),\left( {0, m}\right) \}$. Now sum the joint pmf over $\left( {x, y}\right) \in A$ and use the binomial theorem, which says that
 
 $$
 \mathop{\sum }\limits_{{k = 0}}^{m}\left( \begin{matrix} m \\ k \end{matrix}\right) {a}^{k}{b}^{m - k} = {\left( a + b\right) }^{m}
 $$
 
-for any $a, b$.]
+for any $a, b$.
 
 # 12
 Two components of a minicomputer have the following joint pdf for their useful lifetimes $X$ and $Y$ :

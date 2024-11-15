@@ -8,9 +8,9 @@ b. Determine the sampling distribution of the sample variance ${S}^{2}$ , calcul
 # 38
 There are two traffic lights on a commuter's route to and from work. Let ${X}_{1}$ be the number of lights at which the commuter must stop on his way to work, and ${X}_{2}$ be the number of lights at which he must stop when returning from work. Suppose these two variables are independent, each with pmf given in the accompanying table (so ${X}_{1},{X}_{2}$ is a random sample of size $n = 2$ ).
 
-| \( x_1 \)                   | 0   | 1   | 2   |
+| $x_1$                   | 0   | 1   | 2   |
 |-----------------------------|-----|-----|-----|
-| \( p(x_1) \)                | 0.2 | 0.5 | 0.3 |
+| $p(x_1)$                | 0.2 | 0.5 | 0.3 |
 
 $$
 \mu = {1.1},{\sigma }^{2} = {.49}
@@ -39,9 +39,9 @@ b. Describe how you would carry out a simulation experiment to compare the distr
 # 41
 Let $X$ be the number of packages being mailed by a randomly selected customer at a certain shipping facility. Suppose the distribution of $X$ is as follows:
 
-| \( x \)                   | 1   | 2   | 3   | 4   |
+| $x$                   | 1   | 2   | 3   | 4   |
 |---------------------------|-----|-----|-----|-----|
-| \( p(x) \)                | 0.4 | 0.3 | 0.2 | 0.1 |
+| $p(x)$                | 0.4 | 0.3 | 0.2 | 0.1 |
 
 a. Consider a random sample of size $n = 2$ (two customers), and let $\bar{X}$ be the sample mean number of packages shipped. Obtain the probability distribution of $\bar{X}$ .
 

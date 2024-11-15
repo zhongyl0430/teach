@@ -40,7 +40,8 @@ f_{Y}\left( y \right)
 \end{cases}
 $$
 
-What is the expected amount of time that the one who arrives first must wait for the other person? [Hint: $h\left( {X, Y}\right) = \left| {X - Y}\right|$.]
+What is the expected amount of time that the one who arrives first must wait for the other person? 
+Hint: $h\left( {X, Y}\right) = \left| {X - Y}\right|$.
 
 # 28
 Show that if $X$ and $Y$ are independent rv’s, then $E\left( {XY}\right) = E\left( X\right) \cdot E\left( Y\right)$. Then apply this in Exercise 25. [Hint: Consider the continuous case with $f\left( {x, y}\right) =$ $\left. {{f}_{X}\left( x\right) \cdot {f}_{Y}\left( y\right) \text{.}}\right\rbrack$
