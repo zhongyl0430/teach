@@ -2,6 +2,7 @@ A certain brand of MP3 player comes in three configurations:
 - a model with $2\mathrm{{GB}}$ of memory, costing \$ 80, 
 - a $4\mathrm{\;{GB}}$ model priced at \$ 100, 
 - an $8\mathrm{\;{GB}}$ version with a price tag of \$120. 
+
 If 
 - 20% of all purchasers choose the 2 GB model,
 - 30% choose the 4 GB model, 
@@ -26,7 +27,7 @@ Suppose that ${X}_{1}$ and ${X}_{2}$ are independent, each with the probability 
 - so that ${X}_{1}$ and ${X}_{2}$ constitute a random sample from the distribution (5.2)
 
 Table 5.2 lists possible $\left( {{x}_{1},{x}_{2}}\right)$ pairs, the probability of each computed using (5.2) and also the assumption of independence, and the resulting $\bar{x}$ and ${s}^{2}$ values. 
-Note that when $n = 2$, ${s}^{2} =$ ${\left( {x}_{1} - \bar{x}\right) }^{2} + {\left( {x}_{2} - \bar{x}\right) }^{2}$.
+Note that when $n = 2$, $${s}^{2} = {\left( {x}_{1} - \bar{x}\right) }^{2} + {\left( {x}_{2} - \bar{x}\right) }^{2}$$
 
 Now to obtain the probability distribution of $\bar{X}$, the sample average revenue per sale, we must consider each possible value $\bar{x}$ and compute its probability. 
 
