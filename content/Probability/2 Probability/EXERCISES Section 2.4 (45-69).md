@@ -7,9 +7,9 @@ The population of a particular country consists of three ethnic groups. Each ind
 | 2   | .135 | .141 | .018 | .006 |
 | 3   | .215 | .200 | .065 | .020 |
 
-Suppose that an individual is randomly selected from the population, and define events by $A = \{$ type A selected $\} ,B = \{$ type B selected $\}$ , and $C = \{$ ethnic group 3 selected $\}$ .
+Suppose that an individual is randomly selected from the population, and define events by $A = \{$ type A selected $\}$, $B = \{$ type B selected $\}$, and $C = \{$ ethnic group 3 selected $\}$ .
 
-1. Calculate $P\left( A\right) ,P\left( C\right)$ , and $P\left( {A \cap C}\right)$ .
+1. Calculate $P\left( A\right)$, $P\left( C\right)$, and $P\left( {A \cap C}\right)$.
 2. Calculate both $P\left( {A \mid C}\right)$ and $P\left( {C \mid A}\right)$ , and explain in context what each of these probabilities represents.
 3. If the selected individual does not have type B blood, what is the probability that he or she is from ethnic group 1 ?
 
@@ -97,7 +97,11 @@ If a child younger than 18 is randomly selected, what is the probability that he
 It was also reported that ${30}\%$ of those with an allergy in fact are allergic to multiple foods. If a child younger than 18 is randomly selected, what is the probability that he or she is allergic to multiple foods?
 
 # 52
-A system consists of two identical pumps, #1 and #2. If one pump fails, the system will still operate. However, because of the added strain, the remaining pump is now more likely to fail than was originally the case. That is, $r = P\left( {\# 2\text{fails} \mid \# 1\text{fails}}\right) > P\left( {\# 2\text{fails}}\right) = q$ . If at least one pump fails by the end of the pump design life in $7\%$ of all systems and both pumps fail during that period in only $1\%$ , what is the probability that pump #1 will fail during the pump design life?
+A system consists of two identical pumps, #1 and #2. 
+If one pump fails, the system will still operate. 
+However, because of the added strain, the remaining pump is now more likely to fail than was originally the case. 
+That is, $r = P\left( {\# 2\text{fails} \mid \# 1\text{fails}}\right) > P\left( {\# 2\text{fails}}\right) = q$ . 
+If at least one pump fails by the end of the pump design life in $7\%$ of all systems and both pumps fail during that period in only $1\%$ , what is the probability that pump #1 will fail during the pump design life?
 # 53
 A certain shop repairs both audio and video components. Let $A$ denote the event that the next component brought in for repair is an audio component, and let $B$ be the event that the next component is a compact disc player (so the event $B$ is contained in $A$ ). Suppose that $P\left( A\right) = {.6}$ and $P\left( B\right) = {.05}$ . What is $P\left( {B \mid A}\right)$ ?
 
@@ -149,7 +153,8 @@ One of the two tested components is defective.
 
 # 62
 Blue Cab operates ${15}\%$ of the taxis in a certain city, and Green Cab operates the other ${85}\%$ . After a nighttime hit-and-run accident involving a taxi, an eyewitness said the vehicle was blue. Suppose, though, that under night vision conditions, only ${80}\%$ of individuals can correctly distinguish between a blue and a green vehicle. What is the (posterior) probability that the taxi at fault was blue? In answering, be sure to indicate which probability rules you are using. 
-- Hint: A tree diagram might help. Note: This is based on an actual incident.
+- Hint: A tree diagram might help. 
+- Note: This is based on an actual incident.
 
 # 63
 For customers purchasing a refrigerator at a certain appliance store, let $A$ be the event that the refrigerator was manufactured in the U.S., $B$ be the event that the refrigerator had an icemaker, and $C$ be the event that the customer purchased an extended warranty. Relevant probabilities are

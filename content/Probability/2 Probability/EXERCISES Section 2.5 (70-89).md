@@ -1,5 +1,5 @@
 # 70
-Reconsider the credit card scenario of Exercise 47 (Section 2.4), and show that $A$ and $B$ are dependent first by using the definition of independence and then by verifying that the multiplication property does not hold.
+Reconsider the credit card scenario of [[Probability/2 Probability/EXERCISES Section 2.4 (45-69)#47|Exercise 47]] (Section 2.4), and show that $A$ and $B$ are dependent first by using the definition of independence and then by verifying that the multiplication property does not hold.
 
 # 71
 An oil exploration company currently has two active projects, one in Asia and the other in Europe. Let $A$ be the event that the Asian project is successful and $B$ be the event that the European project is successful. Suppose that $A$ and $B$ are independent events with $P\left( A\right) = {.4}$ and $P\left( B\right) = {.7}$ .
@@ -32,7 +32,9 @@ Even when a process is running correctly, there is a small probability that a pa
 In October, 1994, a flaw in a certain Pentium chip installed in computers was discovered that could result in a wrong answer when performing a division. The manufacturer initially claimed that the chance of any particular division being incorrect was only 1 in 9 billion, so that it would take thousands of years before a typical user encountered a mistake. However, statisticians are not typical users; some modern statistical techniques are so computationally intensive that a billion divisions over a short time period is not outside the realm of possibility. Assuming that the 1 in 9 billion figure is correct and that results of different divisions are independent of one another, what is the probability that at least one error occurs in one billion divisions with this chip?
 
 # 77
-An aircraft seam requires 25 rivets. The seam will have to be reworked if any of these rivets is defective. Suppose rivets are defective independently of one another, each with the same probability.
+An aircraft seam requires 25 rivets. 
+The seam will have to be reworked if any of these rivets is defective. 
+Suppose rivets are defective independently of one another, each with the same probability.
 1.  If ${15}\%$ of all seams need reworking, what is the probability that a rivet is defective?
 2.  How small should the probability of a defective rivet be to ensure that only ${10}\%$ of all seams need reworking?
 
