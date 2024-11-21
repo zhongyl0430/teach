@@ -103,7 +103,8 @@ Hint: First determine $p\left( 1\right)$ , then $p\left( 2\right)$ , and so on.
 
 b\. Determine the cdf of $M$ and graph it.
 
-19\. A library subscribes to two different weekly news magazines, each of which is supposed to arrive in Wednesday's mail. In actuality, each one may arrive on Wednesday, Thursday, Friday, or Saturday. Suppose the two arrive independently of one another, and for each one $P\left( \text{Wed.}\right) = {.3}$ , $P\left( \text{Thurs.}\right) = {.4},\;P\left( \text{Fri.}\right) = {.2}$, and $\;P\left( \text{Sat.}\right) = {.1}$ . Let $Y =$ the number of days beyond Wednesday that it takes for both magazines to arrive (so possible $Y$ values are 0,1, 2, or 3). Compute the pmf of $Y$ . 
+# 19
+A library subscribes to two different weekly news magazines, each of which is supposed to arrive in Wednesday's mail. In actuality, each one may arrive on Wednesday, Thursday, Friday, or Saturday. Suppose the two arrive independently of one another, and for each one $P\left( \text{Wed.}\right) = {.3}$ , $P\left( \text{Thurs.}\right) = {.4},\;P\left( \text{Fri.}\right) = {.2}$, and $\;P\left( \text{Sat.}\right) = {.1}$ . Let $Y =$ the number of days beyond Wednesday that it takes for both magazines to arrive (so possible $Y$ values are 0,1, 2, or 3). Compute the pmf of $Y$ . 
 Hint: There are 16 possible outcomes; $Y\left( {W,W}\right) = 0,Y\left( {F,{Th}}\right) = 2$ , and so on.
 
 # 20
@@ -145,8 +146,9 @@ b. $P\left( {X > 3}\right)$
 c\. $P\left( {2 \leq X \leq 5}\right)$ d. $P\left( {2 < X < 5}\right)$
 
 # 24
-An insurance company offers its policyholders a number of different premium payment options. For a randomly selected policyholder, let $X$ be the number of months between successive payments. The cdf of $X$ is as follows:
-
+An insurance company offers its policyholders a number of different premium payment options. 
+For a randomly selected policyholder, let $X$ be the number of months between successive payments. 
+The cdf of $X$ is as follows:
 $$F\left( x\right) = \left\{ \begin{array}{ll} 0 & x < 1 \\ {.30} & 1 \leq x < 3 \\ {.40} & 3 \leq x < 4 \\ {.45} & 4 \leq x < 6 \\ {.60} & 6 \leq x < {12} \\ 1 & {12} \leq x \end{array}\right.$$
 
 a\. What is the pmf of $X$ ?

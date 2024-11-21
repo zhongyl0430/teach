@@ -1,5 +1,5 @@
 # 1
-A concrete beam may fail either by shear $\left( S\right)$ or flexure $\left( F\right)$ . Suppose that three failed beams are randomly selected and the type of failure is determined for each one. Let $X  =$ the number of beams among the three selected that failed by shear. List each outcome in the sample space along with the associated value of $X$. 
+A concrete beam may fail either by shear $\left( S\right)$ or flexure $\left( F\right)$. Suppose that three failed beams are randomly selected and the type of failure is determined for each one. Let $X  =$ the number of beams among the three selected that failed by shear. List each outcome in the sample space along with the associated value of $X$. 
 
 # 2
 Give three examples of Bernoulli rv's (other than those in the text).
@@ -16,7 +16,7 @@ What are the possible values of $X$ ? Give three possible outcomes and their ass
 If the sample space $\mathcal{S}$ is an infinite set, does this necessarily imply that any rv $X$ defined from $\mathcal{S}$ will have an infinite set of possible values? If yes, say why. If no, give an example.
 
 # 6
-Starting at a fixed time, each car entering an intersection is observed to see whether it turns left $\left( L\right)$ , right $\left( R\right)$ , or goes straight ahead $\left( A\right)$ . The experiment terminates as soon as a car is observed to turn left. Let $X =$ the number of cars observed. What are possible $X$ values? List five outcomes and their associated $X$ values.
+Starting at a fixed time, each car entering an intersection is observed to see whether it turns left $\left( L\right)$ , right $\left( R\right)$ , or goes straight ahead $\left( A\right)$. The experiment terminates as soon as a car is observed to turn left. Let $X =$ the number of cars observed. What are possible $X$ values? List five outcomes and their associated $X$ values.
 
 # 7 
 For each random variable defined here, describe the set of possible values for the variable, and state whether the variable is discrete.
@@ -38,7 +38,7 @@ g\. $X =$ the tension (psi) at which a randomly selected tennis racket has been 
 h\. $X =$ the total number of times three tennis players must spin their rackets to obtain something other than ${UUU}$ or ${DDD}$ (to determine which two play next)
 
 # 8
-Each time a component is tested, the trial is a success $\left( S\right)$ or failure $\left( F\right)$ . Suppose the component is tested repeatedly until a success occurs on three consecutive trials.
+Each time a component is tested, the trial is a success $\left( S\right)$ or failure $\left( F\right)$. Suppose the component is tested repeatedly until a success occurs on three consecutive trials.
 Let $Y$ denote the number of trials necessary to achieve this. List all outcomes corresponding to the five smallest possible values of $Y$ , and state which $Y$ value is associated with each one.
  
 # 9
@@ -46,9 +46,9 @@ An individual named Claudius is located at the point 0 in the accompanying diagr
 
 ![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_5_649683.jpg)
 
-Using an appropriate randomization device (such as a tetrahedral die, one having four sides), Claudius first moves to one of the four locations ${B}_{1},{B}_{2},{B}_{3},{B}_{4}$ . Once at one of these locations, another randomization device is used to decide whether Claudius next returns to 0 or next visits one of the other two adjacent points. This process then continues; after each move, another move to one of the (new) adjacent points is determined by tossing an appropriate die or coin.
+Using an appropriate randomization device (such as a tetrahedral die, one having four sides), Claudius first moves to one of the four locations ${B}_{1},{B}_{2},{B}_{3},{B}_{4}$. Once at one of these locations, another randomization device is used to decide whether Claudius next returns to 0 or next visits one of the other two adjacent points. This process then continues; after each move, another move to one of the (new) adjacent points is determined by tossing an appropriate die or coin.
 
-a\. Let $X =$ the number of moves that Claudius makes before first returning to 0 . What are possible values of $X$? Is $X$ discrete or continuous?
+a\. Let $X =$ the number of moves that Claudius makes before first returning to 0. What are possible values of $X$? Is $X$ discrete or continuous?
 
 b\. If moves are allowed also along the diagonal paths connecting 0 to ${A}_{1},{A}_{2},{A}_{3}$ , and ${A}_{4}$ , respectively, answer the questions in part (a).
 

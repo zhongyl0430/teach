@@ -23,8 +23,7 @@ the other 11 involve multiple vehicles?
 # 48
 NBC News reported on May 2, 2013, that 1 in 20 children in the United States have a food allergy of some sort. Consider selecting a random sample of 25 children and let $X$ be the number in the sample who have a food allergy. Then $X \sim \operatorname{Bin}\left( {{25},{.05}}\right)$ .
 
-a\. Determine both $P\left( {X \leq 3}\right)$ and
-$P\left( {X < 3}\right)$ .
+a\. Determine both $P\left( {X \leq 3}\right)$ and $P\left( {X < 3}\right)$ .
 
 b\. Determine $P\left( {X \geq 4}\right)$ .
 
