@@ -10,5 +10,6 @@ title: 线性代数与解析几何
 - [[Linear algebra/4/index|4 线性方程组]]
 - [[Linear algebra/5/index|5 特征值与特征向量]]
 - [[Linear algebra/6/index|6 二次型与二次曲面]]
+- [[teach/Linear algebra/7/index|7 线性空间与线性变换]]
 
 ![[QR-LA-homepage.png]]

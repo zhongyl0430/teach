@@ -38,8 +38,8 @@ d. Verify that $f\left( x\right)$ is as given in Exercise 3 by obtaining ${F}^{\
 
 e. Verify that $\widetilde{\mu } = 0$ .
 # 13
-Example 4.5 introduced the concept of time headway in traffic flow and proposed a particular distribution for $X =$ the headway between two randomly selected consecutive cars (sec). Suppose that in a different traffic environment, the distribution of time headway has the form
-
+Example 4.5 introduced the concept of time headway in traffic flow and proposed a particular distribution for $X =$ the headway between two randomly selected consecutive cars (sec). 
+Suppose that in a different traffic environment, the distribution of time headway has the form
 $$
 f\left( x\right) = \left\{ \begin{array}{ll} \frac{k}{{x}^{4}} & x > 1 \\ 0 & x \leq 1 \end{array}\right.
 $$

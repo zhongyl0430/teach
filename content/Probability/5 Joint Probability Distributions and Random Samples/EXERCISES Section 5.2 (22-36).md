@@ -1,5 +1,9 @@
 # 22 
-An instructor has given a short quiz consisting of two parts. For a randomly selected student, let $X =$ the number of points earned on the first part and $Y =$ the number of points earned on the second part. Suppose that the joint pmf of $X$ and $Y$ is given in the accompanying table.
+An instructor has given a short quiz consisting of two parts. For a randomly selected student, let 
+- $X =$ the number of points earned on the first part 
+- $Y =$ the number of points earned on the second part. 
+
+Suppose that the joint pmf of $X$ and $Y$ is given in the accompanying table.
 
 | $p(x, y)$ | 0   | 5   | 10  | 15  |
 | --------- | --- | --- | --- | --- |
@@ -50,7 +54,7 @@ Show that if $X$ and $Y$ are independent rv’s, then $E\left( {XY}\right) = E\l
 Compute the correlation coefficient $\rho$ for $X$ and $Y$ of Example 5.16 (the covariance has already been computed).
 
 # 30
-a. Compute the covariance for $X$ and $Y$ in Exercise 22.
+a. Compute the covariance for $X$ and $Y$ in [[#22]].
 
 b. Compute $\rho$ for $X$ and $Y$ in the same exercise.
 

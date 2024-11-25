@@ -1,5 +1,9 @@
 # 1
-A service station has both self-service and full-service islands. On each island, there is a single regular unleaded pump with two hoses. Let $X$ denote the number of hoses being used on the self-service island at a particular time, and let $Y$ denote the number of hoses on the full-service island in use at that time. The joint pmf of $X$ and $Y$ appears in the accompanying tabulation.
+A service station has both self-service and full-service islands. On each island, there is a single regular unleaded pump with two hoses. Let 
+- $X$ denote the number of hoses being used on the self-service island at a particular time,
+- $Y$ denote the number of hoses on the full-service island in use at that time. 
+
+The joint pmf of $X$ and $Y$ appears in the accompanying tabulation.
 
 |  p(x, y)     | y=0  | y=1  | y=2  |
 | --- | ---- | ---- | ---- |
@@ -217,9 +221,9 @@ c. Answer part (b) for $R/\sqrt{2}$ replacing $R/2$.
 d. What is the marginal pdf of $X$ ? Of $Y$ ? Are $X$ and $Y$ independent?
 
 # 18
-Refer to Exercise 1 and answer the following questions:
+Refer to [[EXERCISES Section 5.1 (1-21)#1|Exercise 1]] and answer the following questions:
 
-a. Given that $X = 1$, determine the conditional pmf of $Y$ -i.e., ${p}_{Y \mid X}\left( {0 \mid 1}\right),{p}_{Y \mid X}\left( {1 \mid 1}\right)$, and ${p}_{Y \mid X}\left( {2 \mid 1}\right)$.
+a. Given that $X = 1$, determine the conditional pmf of $Y$ -i.e., ${p}_{Y \mid X}\left( {0 \mid 1}\right)$, ${p}_{Y \mid X}\left( {1 \mid 1}\right)$, and ${p}_{Y \mid X}\left( {2 \mid 1}\right)$.
 
 b. Given that two hoses are in use at the self-service island, what is the conditional pmf of the number of hoses in use on the full-service island?
 

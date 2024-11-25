@@ -6,7 +6,12 @@ a. Determine the sampling distribution of $\bar{X}$ , calculate $E\left( \bar{X}
 b. Determine the sampling distribution of the sample variance ${S}^{2}$ , calculate $E\left( {S}^{2}\right)$ , and compare to ${\sigma }^{2}$ .
 
 # 38
-There are two traffic lights on a commuter's route to and from work. Let ${X}_{1}$ be the number of lights at which the commuter must stop on his way to work, and ${X}_{2}$ be the number of lights at which he must stop when returning from work. Suppose these two variables are independent, each with pmf given in the accompanying table (so ${X}_{1},{X}_{2}$ is a random sample of size $n = 2$ ).
+There are two traffic lights on a commuter's route to and from work. 
+Let 
+- ${X}_{1}$ be the number of lights at which the commuter must stop on his way to work,
+- ${X}_{2}$ be the number of lights at which he must stop when returning from work. 
+
+Suppose these two variables are independent, each with pmf given in the accompanying table (so ${X}_{1},{X}_{2}$ is a random sample of size $n = 2$ ).
 
 | $x_1$                   | 0   | 1   | 2   |
 |-----------------------------|-----|-----|-----|
