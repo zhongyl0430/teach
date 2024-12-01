@@ -1,5 +1,6 @@
 # 59
-Let $X =$ the time between two successive arrivals at the drive-up window of a local bank. If $X$ has an exponential distribution with $\lambda = 1$ (which is identical to a standard gamma distribution with $\alpha = 1$ ), compute the following:
+Let $X =$ the time between two successive arrivals at the drive-up window of a local bank. 
+If $X$ has an exponential distribution with $\lambda = 1$ (which is identical to a standard gamma distribution with $\alpha = 1$ ), compute the following:
 
 a. The expected time between two successive arrivals
 
@@ -7,7 +8,8 @@ b. The standard deviation of the time between successive arrivals
 
 c. $P\left( {X \leq 4}\right)$ d. $P\left( {2 \leq X \leq 5}\right)$
 # 60
-Let $X$ denote the distance (m) that an animal moves from its birth site to the first territorial vacancy it encounters. Suppose that for banner-tailed kangaroo rats, $X$ has an exponential distribution with parameter $\lambda = {.01386}$ (as suggested in the article "Competition and Dispersal from Multiple Nests," Ecology, 1997: 873-883).
+Let $X$ denote the distance (m) that an animal moves from its birth site to the first territorial vacancy it encounters. 
+Suppose that for banner-tailed kangaroo rats, $X$ has an exponential distribution with parameter $\lambda = {.01386}$ (as suggested in the article "Competition and Dispersal from Multiple Nests," Ecology, 1997: 873-883).
 
 a. What is the probability that the distance is at most ${100}\mathrm{\;m}$ ? At most ${200}\mathrm{\;m}$ ? Between 100 and ${200}\mathrm{\;m}$ ?
 

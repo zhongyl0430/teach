@@ -104,7 +104,10 @@ b. Compute $E\left( X\right) , V\left( X\right)$ , and ${\sigma }_{X}$ .
 
 c. For $n$ , a positive integer, compute $E\left( {X}^{n}\right)$ .
 # 18
-Let $X$ denote the voltage at the output of a microphone, and suppose that $X$ has a uniform distribution on the interval from -1 to 1 . The voltage is processed by a "hard limiter" with cutoff values -.5 and .5 , so the limiter output is a random variable $Y$ related to $X$ by $Y = X$ if $\left| X\right| \leq {.5}, Y = {.5}$ if $X > {.5}$ , and $Y = - {.5}$ if $X < - {.5}$ .
+Let $X$ denote the voltage at the output of a microphone, and suppose that $X$ has a uniform distribution on the interval from -1 to 1 . The voltage is processed by a "hard limiter" with cutoff values -.5 and .5 , so the limiter output is a random variable $Y$ related to $X$ by 
+- $Y = X$ if $\left| X\right| \leq {.5}$, 
+- $Y = {.5}$ if $X > {.5}$ , 
+- $Y = - {.5}$ if $X < - {.5}$ .
 
 a. What is $P\left( {Y = {.5}}\right)$ ?
 

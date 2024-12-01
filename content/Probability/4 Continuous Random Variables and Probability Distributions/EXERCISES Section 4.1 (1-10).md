@@ -49,13 +49,14 @@ c. What is the probability that $X$ is between 100 and 200 (again assuming $\the
 
 d. Give an expression for $P\left( {X \leq x}\right)$ .
 # 5
-A college professor never finishes his lecture before the end of the hour and always finishes his lectures within 2 min after the hour. Let $X =$ the time that elapses between the end of the hour and the end of the lecture and suppose the pdf of $X$ is
-
+A college professor never finishes his lecture before the end of the hour and always finishes his lectures within 2 min after the hour. 
+Let $X =$ the time that elapses between the end of the hour and the end of the lecture and suppose the pdf of $X$ is
 $$
 f\left( x\right) = \left\{ \begin{matrix} k{x}^{2} & 0 \leq x \leq 2 \\ 0 & \text{ otherwise } \end{matrix}\right.
 $$
 
-a. Find the value of $k$ and draw the corresponding density curve. [Hint: Total area under the graph of $f\left( x\right)$ is 1.]
+a. Find the value of $k$ and draw the corresponding density curve. 
+- Hint: Total area under the graph of $f\left( x\right)$ is 1.
 
 b. What is the probability that the lecture ends within 1 min of the end of the hour?
 

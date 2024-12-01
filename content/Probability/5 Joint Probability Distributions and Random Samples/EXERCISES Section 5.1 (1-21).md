@@ -1,5 +1,7 @@
 # 1
-A service station has both self-service and full-service islands. On each island, there is a single regular unleaded pump with two hoses. Let 
+A service station has both self-service and full-service islands. 
+On each island, there is a single regular unleaded pump with two hoses. 
+Let 
 - $X$ denote the number of hoses being used on the self-service island at a particular time,
 - $Y$ denote the number of hoses on the full-service island in use at that time. 
 
@@ -22,11 +24,19 @@ d. Compute the marginal pmf of $X$ and of $Y$. Using ${p}_{X}\left( x\right)$, w
 e. Are $X$ and $Y$ independent rv’s? Explain.
 
 # 2
-A large but sparsely populated county has two small hospitals, one at the south end of the county and the other at the north end. The south hospital's emergency room has four beds, whereas the north hospital's emergency room has only three beds. Let $X$ denote the number of south beds occupied at a particular time on a given day, and let $Y$ denote the number of north beds occupied at the same time on the same day. Suppose that these two rv’s are independent; that the pmf of $X$ puts probability masses ${.1},{.2},{.3},{.2}$, and.2 on the $x$ values $0,1,2,3$, and 4, respectively; and that the pmf of $Y$ distributes probabilities ${.1},{.3},{.4}$, and.2 on the $y$ values $0,1,2$, and 3, respectively.
+A large but sparsely populated county has two small hospitals, one at the south end of the county and the other at the north end. 
+The south hospital's emergency room has four beds, whereas the north hospital's emergency room has only three beds. 
+Let 
+- $X$ denote the number of south beds occupied at a particular time on a given day, 
+- $Y$ denote the number of north beds occupied at the same time on the same day. 
+
+Suppose that these two rv’s are independent; 
+- the pmf of $X$ puts probability masses ${.1},{.2},{.3},{.2}$, and .2 on the $x$ values $0,1,2,3$, and 4, respectively; 
+- the pmf of $Y$ distributes probabilities ${.1},{.3},{.4}$, and .2 on the $y$ values $0,1,2$, and 3, respectively.
 
 a. Display the joint pmf of $X$ and $Y$ in a joint probability table.
 
-b. Compute $P\left( {X \leq 1\text{and}Y \leq 1}\right)$ by adding probabilities from the joint pmf, and verify that this equals the product of $P\left( {X \leq 1}\right)$ and $P\left( {Y \leq 1}\right)$.
+b. Compute $P\left( {X \leq 1\text{ and }Y \leq 1}\right)$ by adding probabilities from the joint pmf, and verify that this equals the product of $P\left( {X \leq 1}\right)$ and $P\left( {Y \leq 1}\right)$.
 
 c. Express the event that the total number of beds occupied at the two hospitals combined is at most 1 in terms of $X$ and $Y$, and then calculate this probability.
 
@@ -223,7 +233,8 @@ d. What is the marginal pdf of $X$ ? Of $Y$ ? Are $X$ and $Y$ independent?
 # 18
 Refer to [[EXERCISES Section 5.1 (1-21)#1|Exercise 1]] and answer the following questions:
 
-a. Given that $X = 1$, determine the conditional pmf of $Y$ -i.e., ${p}_{Y \mid X}\left( {0 \mid 1}\right)$, ${p}_{Y \mid X}\left( {1 \mid 1}\right)$, and ${p}_{Y \mid X}\left( {2 \mid 1}\right)$.
+a. Given that $X = 1$, determine the conditional pmf of $Y$ 
+- i.e., ${p}_{Y \mid X}\left( {0 \mid 1}\right)$, ${p}_{Y \mid X}\left( {1 \mid 1}\right)$, and ${p}_{Y \mid X}\left( {2 \mid 1}\right)$.
 
 b. Given that two hoses are in use at the self-service island, what is the conditional pmf of the number of hoses in use on the full-service island?
 
