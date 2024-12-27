@@ -110,7 +110,7 @@ Hint: The number of pounds left is a linear function of $X$ .
 a. Draw a line graph of the pmf of $X$ in Exercise 35. Then determine the pmf of $- X$ and draw its line graph. From these two pictures, what can you say about $V\left( X\right)$ and $V\left( {-X}\right)$ ?
 
 b\. Use the proposition involving $V\left( {{aX} + b}\right)$ to
-establish a general relationship between  V\left( X\right)$ and $V\left( {-X}\right)$ .
+establish a general relationship between  $V\left( X\right)$ and $V\left( {-X}\right)$ .
 
 # 41
 Use the definition in Expression (3.13) to prove that $V\left( {{aX} + b}\right) = {a}^{2} \cdot {\sigma }_{X}^{2}$ . 

@@ -34,7 +34,7 @@ Three components are connected to form a system as shown in the accompanying dia
 Because the components in the 2-3 subsystem are connected in parallel, that subsystem will function if at least one of the two individual components functions. 
 For the entire system to function, component 1 must function and so must the 2-3 subsystem.
 
-![[teach/Probability 1/images/01913607-292d-7d0a-a250-4b01870485a1_6_705843.jpg]]
+![[teach/Probability/images/01913607-292d-7d0a-a250-4b01870485a1_6_705843.jpg]]
 
 The experiment consists of determining the condition of each component 
 - $S$ (success) for a functioning component

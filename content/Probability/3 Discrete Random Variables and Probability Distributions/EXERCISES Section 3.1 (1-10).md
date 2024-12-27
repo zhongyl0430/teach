@@ -44,7 +44,7 @@ Let $Y$ denote the number of trials necessary to achieve this. List all outcomes
 # 9
 An individual named Claudius is located at the point 0 in the accompanying diagram.
 
-![image](teach/Probability%201/images/019165cb-e657-75f5-b964-f15ddb80567f_5_649683.jpg)
+![image](teach/Probability/images/019165cb-e657-75f5-b964-f15ddb80567f_5_649683.jpg)
 
 Using an appropriate randomization device (such as a tetrahedral die, one having four sides), Claudius first moves to one of the four locations ${B}_{1},{B}_{2},{B}_{3},{B}_{4}$. Once at one of these locations, another randomization device is used to decide whether Claudius next returns to 0 or next visits one of the other two adjacent points. This process then continues; after each move, another move to one of the (new) adjacent points is determined by tossing an appropriate die or coin.
 
