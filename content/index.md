@@ -1,6 +1,4 @@
 ---
-title: Courses (2024 Autumn)
+title: Courses (2025 Spring)
 ---
-- [[Linear algebra/index|线性代数与解析几何]]
-- [[Probability/index|Probability]]
-- [[Machine learning/index|机器学习基础]]
+[[teach/Probability-Statisitic/index|概率论与数理统计]]
