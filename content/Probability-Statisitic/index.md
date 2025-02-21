@@ -1,1 +1,1 @@
-- [[teach/Probability-Statisitic/1 随机事件与概率/index|1 随机事件与概率]]
+- [[Probability-Statisitic/1 随机事件与概率/index|1 随机事件与概率]]
