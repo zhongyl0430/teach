@@ -1,6 +1,6 @@
-[[第一章 随机事件与概率]]
+[[teach/Probability-Statisitic/1 随机事件与概率/index]]
 
-[[第二章 一维随机变量及其分布]]
+[[teach/Probability-Statisitic/2 一维随机变量及其分布/index]]
 
 [[第三章 随机向量及其分布]]
 
