@@ -115,21 +115,8 @@ $$
 
 下面的推论 5.1.1 说明了概率的统计定义的含义.
 
-推论 5.1.1 (伯努利大数定律) 记 ${\nu }_{n}$ 为 $n$ 重独立伯努利试验中成功的次数, $p$ 为一次试验成功的概率,则
+[[推论 5.1.1 (伯努利大数定律)]]
 
-$$
-\mathop{\lim }\limits_{{n \rightarrow  \infty }}P\left( {\left| {\frac{{\nu }_{n}}{n} - p}\right|  \geq  \varepsilon }\right)  = 0. \tag{5.1.7}
-$$
-
-证明 设 ${X}_{1},{X}_{2},\cdots$ 为独立同分布的随机变量序列,同服从 $B\left( {1, p}\right)$,则
-
-$E\left\lbrack  {X}_{1}\right\rbrack   = p$,且
-
-$$
-\frac{{\nu }_{n}}{n} = \frac{{X}_{1} + {X}_{2} + \cdots  + {X}_{n}}{n}
-$$
-
-从而由 (5.1.6) 即得 (5.1.7).
 
 ### 5.1.3 强大数定律
 

@@ -1,0 +1,1 @@
+![[teach/Probability/images/01913607-292d-7d0a-a250-4b01870485a1_5_872021.jpg]]
