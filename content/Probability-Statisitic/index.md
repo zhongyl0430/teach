@@ -1,3 +1,0 @@
-- [[0 课程信息]]
-- [[Probability-Statisitic/1 随机事件与概率/index|1 随机事件与概率]]
-- [[teach/Probability-Statisitic/2 一维随机变量及其分布/index|2 一维随机变量及其分布]]
