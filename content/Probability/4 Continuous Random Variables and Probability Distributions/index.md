@@ -9,7 +9,7 @@ title: 4 Continuous Random Variables and Probability Distributions
 - [[4.5 Other Continuous Distributions]]
 - [[4.6 Probability Plots]]
 - [[SUPPLEMENTARY EXERCISES (98-128)]]
-- [[BIBLIOGRAPHY|Bibliography]]
+- [[teach/Probability/4 Continuous Random Variables and Probability Distributions/BIBLIOGRAPHY|Bibliography]]
 # Introduction
 [[teach/Probability/3 Discrete Random Variables and Probability Distributions/index|Chapter 3]] concentrated on the development of probability distributions for discrete random variables. 
 In this chapter, we consider the second general type of random variable that arises in many applied problems. 

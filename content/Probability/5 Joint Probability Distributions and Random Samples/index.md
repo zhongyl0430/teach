@@ -8,7 +8,7 @@ title: 5 Joint Probability Distributions and Random Samples
 - [[5.4 The Distribution of the Sample Mean]]
 - [[5.5 The Distribution of a Linear Combination]]
 - [[SUPPLEMENTARY EXERCISES (75–96)]]
-- [[BIBLIOGRAPHY|BIBLIOGRAPHY]]
+- [[teach/Probability/5 Joint Probability Distributions and Random Samples/BIBLIOGRAPHY|BIBLIOGRAPHY]]
 # Introduction
 In Chapters 3 and 4 we developed probability models for a single random variable. Many problems in probability and statistics involve working simultaneously with two or more random variables. 
 For example, $X$ and $Y$ might be the height and weight, respectively, of a randomly selected individual. Or ${X}_{1},{X}_{2}$, and ${X}_{3}$ might be the number of purchases made with Visa, MasterCard, and American Express credit cards, respectively, at a store on a particular day. 
