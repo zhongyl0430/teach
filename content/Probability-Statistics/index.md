@@ -3,3 +3,4 @@
 - [[2 一维随机变量及其分布/index|2 一维随机变量及其分布]]
 - [[teach/Probability-Statistics/3 随机向量及其分布/index|3 随机向量及其分布]]
 - [[teach/Probability-Statistics/4 随机变量的数字特征/index|4 随机变量的数字特征]]
+- [[teach/Probability-Statistics/5 大数定律和中心极限定理/index|5 大数定律和中心极限定理]]
