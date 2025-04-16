@@ -97,7 +97,6 @@ $$
 设 $\Omega = [0, 1]$，概率测度为勒贝格测度。定义随机变量序列 $X_n$ 如下：
 
 对于 $n = 1, 2, \dots$，设 $n = 2^k + j$，其中 $0 \le j < 2^k$。定义：
-
 $$
 X_n(\omega) = \begin{cases}
 1 & \text{如果 } \omega \in [j/2^k, (j+1)/2^k) \\
@@ -131,13 +130,13 @@ $$
 $$
 \begin{align}
 &\left\{\limsup_{n \to \infty} |X_n - X| > 0\right\} \\
-&= \bigcup_{k=1}^\infty \bigcap_{n=1}^\infty \bigcup_{m=n}^\infty \left\{|X_m - X| > 1/k\right\} .
+&= \bigcup_{k=1}^\infty \bigcap_{n=1}^\infty \bigcup_{m=n}^\infty \left\{|X_m - X| > 1/k\right\}.
 \end{align}
 $$
 由于 $X_n \xrightarrow{a.s.} X$，所以 $P(\{\lim_{n \to \infty} X_n = X\}) = 1$，因此 
-$$P(\{\limsup_{n \to \infty} |X_n - X| > 0\}) = 0 .$$
+$$P(\{\limsup_{n \to \infty} |X_n - X| > 0\}) = 0.$$
 对于固定的 $\epsilon > 0$，
-$$\bigcup_{m=n}^\infty \{|X_m - X| > \epsilon\} \subseteq \{\sup_{m \ge n} |X_m - X| > \epsilon\} .$$
+$$\bigcup_{m=n}^\infty \{|X_m - X| > \epsilon\} \subseteq \{\sup_{m \ge n} |X_m - X| > \epsilon\}.$$
 $$
 \begin{align}
 \lim_{n \to \infty} P\left(\sup_{m \ge n} |X_m - X| > \epsilon\right) &= P\left(\bigcap_{n=1}^\infty \left\{\sup_{m \ge n} |X_m - X| > \epsilon\right\}\right) \\
@@ -147,7 +146,7 @@ $$
 \end{align}
 $$
 所以 $\lim_{n \to \infty} P(\sup_{m \ge n} |X_n - X| > \epsilon) = 0$，进而 
-$$\lim_{n \to \infty} P(|X_n - X| > \epsilon) = 0 .$$
+$$\lim_{n \to \infty} P(|X_n - X| > \epsilon) = 0.$$
 
 ## 5. 总结
 

@@ -27,7 +27,7 @@
 
 总之，几何分布和指数分布在本质上描述了相同类型的随机过程，只是一个适用于离散情况，另一个适用于连续情况。它们共享无记忆性这一重要特性，并且在极限情况下可以相互转化。
 
-[^1]: [geometric distribution and exponential distribution（几何分布和指数 ...](https://blog.csdn.net/qq_37837061/article/details/130299161)  
+[^1]: [geometric distribution and exponential distribution（几何分布和指数...](https://blog.csdn.net/qq_37837061/article/details/130299161)  
 [^2]: [一文搞懂常见概率分布的直觉与联系](https://developer.aliyun.com/article/657460)  
 [^3]: [5.3: 指数分布- Global](https://query.libretexts.org/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87/%E5%9B%BE%E4%B9%A6%EF%BC%9A%E5%95%86%E4%B8%9A%E7%BB%9F%E8%AE%A1_(OpenStax)/05:_%E8%BF%9E%E7%BB%AD%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/5.03:_%E6%8C%87%E6%95%B0%E5%88%86%E5%B8%83)  
 [^4]: [如何理解几何分布与指数分布的无记忆性？ 原创 - CSDN博客](https://blog.csdn.net/ccnt_2012/article/details/101679630)  
