@@ -1,0 +1,118 @@
+## 3.7
+若在某学校中, 随机抽取 25 名同学测量身高数据, 假设所测身高近似服从正态分布, 算得平均高为 ${170}\mathrm{\;{cm}}$,标准差为 ${12}\mathrm{\;{cm}}$,试求该班学生身高标准差 $\sigma$ 的 0.95 置信区间.
+
+### 分析
+根据题意分析,本题属于正态总体 $\mu$ 未知,求方差 ${\sigma }^{2}$ 的区间估计,其置信区间公式为
+$$
+\left( {\frac{\left( {n - 1}\right) {S}^{2}}{{\chi }_{\frac{\alpha }{2}}^{2}\left( {n - 1}\right) },\;\frac{\left( {n - 1}\right) {S}^{2}}{{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( {n - 1}\right) }}\right).
+$$
+
+### 解
+取统计量
+$$
+{\chi }^{2} = \frac{\left( {n - 1}\right) {S}^{2}}{{\sigma }^{2}} \sim  {\chi }^{2}\left( {n - 1}\right),
+$$
+
+根据 $P\left\{  {{\chi }^{2} > {\chi }_{\frac{\alpha }{2}}^{2}\left( {n - 1}\right) }\right\}   = P\left\{  {{\chi }^{2} < {\chi }_{1 - \frac{\alpha }{2}}^{2}\left( {n - 1}\right) }\right\}   = \frac{\alpha }{2}$.
+
+经过查 ${\chi }^{2}$ 分布表,得 $\;{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( {n - 1}\right)  = {\chi }_{0.975}^{2}\left( {24}\right)  = {12.401}$,
+$$
+{\chi }_{\frac{\alpha }{2}}^{2}\left( {n - 1}\right)  = {\chi }_{0.025}^{2}\left( {24}\right)  = {39.364},
+$$
+
+因此参数 ${\sigma }^{2}$ 的置信度为 $1 - \alpha  = {0.95}$ 的置信区间为
+$$
+\left( {\frac{\left( {n - 1}\right) {S}^{2}}{{\chi }_{\frac{\alpha }{2}}^{2}\left( {n - 1}\right) },\;\frac{\left( {n - 1}\right) {S}^{2}}{{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( {n - 1}\right) }}\right)  = \left( {{87.80},{278.69}}\right),
+$$
+
+故 $\sigma$ 的 0.95 的置信区间为 $\left( {\sqrt{87.80},\sqrt{278.69}}\right)  \approx  \left( {{9.34},{16.69}}\right)$.
+
+## 3.8
+冷抽铜丝的折断力服从正态分布. 从一批铜丝中任取 10 根,测试折断力,得数据(单位:kg)如下:
+$$
+{578},{572},{570},{568},{572},{570},{570},{596},{584},{572}
+$$
+
+求方差 ${\sigma }^{2}$ 和标准差 $\sigma$ 的 ${90}\%$ 的置信区间.
+
+### 解
+$\bar{X} = \frac{1}{10}\left( {{578} + {572} + {570} + {568} + {572} + {570} + {570} + {596} + {584} + {572}}\right)  = {575.2}$,
+$$
+{S}^{2} = \frac{1}{{10} - 1}\left\lbrack  {{\left( {578} - {575.2}\right) }^{2} + {\left( {572} - {575.2}\right) }^{2} + {\left( {570} - {575.2}\right) }^{2} + {\left( {568} - {575.2}\right) }^{2}}\right.
+$$
+$$
++ {\left( {572} - {575.2}\right) }^{2} + {\left( {570} - {575.2}\right) }^{2} + {\left( {570} - {575.2}\right) }^{2} + {\left( {596} - {575.2}\right) }^{2}
+$$
+$$
+\left. {+{\left( {584} - {575.2}\right) }^{2} + {\left( {572} - {575.2}\right) }^{2}}\right\rbrack
+$$
+$$
+= {75.73}\text{,}
+$$
+
+查 ${\chi }^{2}$ 分布表得
+$$
+{\chi }_{\frac{\alpha }{2}}^{2}\left( 9\right)  = {\chi }_{0.05}^{2}\left( 9\right)  = {16.919},\;{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( 9\right)  = {\chi }_{0.95}^{2}\left( 9\right)  = {3.325}\text{,}
+$$
+
+故
+$$
+\frac{\left( {n - 1}\right) {S}^{2}}{{\chi }_{\frac{\alpha }{2}}^{2}\left( 9\right) } = \frac{9 \times  {75.73}}{16.919} = {40.28},\;\frac{\left( {n - 1}\right) {S}^{2}}{{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( 9\right) } = \frac{9 \times  {75.73}}{3.325} = {204.98},
+$$
+
+于是得 ${\sigma }^{2}$ 的 ${90}\%$ 的置信区间为 $\left\lbrack  {{40.28},{240.98}}\right\rbrack.\sigma$ 的 ${90}\%$ 置信区间为 $\left\lbrack  {{6.35},{14.32}}\right\rbrack$.
+
+## 3.9
+两个正态总体 $N\left( {{\mu }_{1},{\sigma }_{1}^{2}}\right) \text{、}N\left( {{\mu }_{2},{\sigma }_{2}^{2}}\right)$ 的参数均未知,分别从两个总体中抽取容量为 25 和 15 的两个独立样本,测得样本方差分别为 6.38,5.15,求 $\frac{{\sigma }_{1}^{2}}{{\sigma }_{2}^{2}}$ 的置信区间 $\left( {\alpha  = {0.10}}\right)$.
+
+### 解
+${n}_{1} = {25},{S}_{1}^{2} = {6.38},{n}_{2} = {15},{S}_{2}^{2} = {5.15},\alpha  = {0.10},\frac{\alpha }{2} = {0.05}$,
+
+查 $F$ 分布表得
+$$
+{F}_{0.05}\left( {24.14}\right)  = {2.35},\;{F}_{0.05}\left( {14.24}\right)  = {2.13},
+$$
+
+而 $\frac{{S}_{1}^{2}}{{S}_{2}^{2}} = \frac{6.38}{5.15} \approx  {1.24}$.
+
+由置信区间公式得 $\frac{{\sigma }_{1}^{2}}{{\sigma }_{2}^{2}}$ 的 ${90}\%$ 置信区间为
+$$
+\left( {\frac{{S}_{1}^{2}}{{S}_{2}^{2}}{F}_{0.95}\left( {{14},{24}}\right),\frac{{S}_{1}^{2}}{{S}_{2}^{2}}{F}_{0.05}\left( {{14},{24}}\right) }\right)  = \left( {{0.528},{2.641}}\right).
+$$
+
+## 3.10
+设 ${X}_{1},{X}_{2},\cdots,{X}_{n}$ 是来自分布 $N\left( {\mu,{\sigma }^{2}}\right)$ 的样本, $\mu$ 已知, $\sigma$ 未知.
+
+( 1 )验证 $\mathop{\sum }\limits_{{i = 1}}^{n}\frac{{\left( {X}_{i} - \mu \right) }^{2}}{{\sigma }^{2}} \sim  {\chi }^{2}\left( n\right)$. 利用这一结果构造 ${\sigma }^{2}$ 的置信水平为 $1 - \alpha$ 的置信区间.
+
+(2)设 $\mu  = {6.5}$,且有样本值7.5,2.0,12.1,8.8,9.4,7.3,1.9,2.8,7.0,7.3,试求 $\sigma$ 的置信水平为 0.95 的置信区间.
+
+### 解
+(1) 因 ${X}_{i} \sim  N\left( {\mu,{\sigma }^{2}}\right)$,故
+$$
+\frac{{X}_{i} - \mu }{\sigma } \sim  N\left( {0,1}\right),\;i = 1,2,\cdots, n.
+$$
+
+由 $\frac{{X}_{1} - \mu }{\sigma },\frac{{X}_{2} - \mu }{\sigma },\cdots,\frac{{X}_{n} - \mu }{\sigma }$ 相互独立,得
+$$
+\mathop{\sum }\limits_{{i = 1}}^{n}{\left( \frac{{X}_{i} - \mu }{\sigma }\right) }^{2} \sim  {\chi }^{2}\left( n\right).
+$$
+
+于是有
+$$
+P\left\{  {{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( n\right)  < \mathop{\sum }\limits_{{i = 1}}^{n}\frac{{\left( {X}_{i} - \mu \right) }^{2}}{{\sigma }^{2}} < {\chi }_{\frac{\alpha }{2}}^{2}\left( n\right) }\right\}   = 1 - \alpha,
+$$
+
+即有
+$$
+P\left\{  {\frac{\mathop{\sum }\limits_{{i = 1}}^{n}{\left( {X}_{i} - \mu \right) }^{2}}{{\chi }_{\frac{\alpha }{2}}^{2}\left( n\right) } < {\sigma }^{2} < \frac{\mathop{\sum }\limits_{{i = 1}}^{n}{\left( {X}_{i} - \mu \right) }^{2}}{{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( n\right) }}\right\}   = 1 - \alpha.
+$$
+
+得 ${\sigma }^{2}$ 的置信水平为 $1 - \alpha$ 的置信区间为
+$$
+\left( {\frac{\mathop{\sum }\limits_{{i = 1}}^{n}{\left( {X}_{i} - \mu \right) }^{2}}{{\chi }_{\frac{\alpha }{2}}^{2}\left( n\right) },\;\frac{\mathop{\sum }\limits_{{i = 1}}^{n}{\left( {X}_{i} - \mu \right) }^{2}}{{\chi }_{1 - \frac{\alpha }{2}}^{2}\left( n\right) }}\right).
+$$
+
+(2)现在 $n = {10},\mu  = {6.5},1 - \alpha  = {0.95},\alpha  = {0.05}$,由样本值经计算得 $\mathop{\sum }\limits_{{i = 1}}^{{10}}{\left( {X}_{i} - \mu \right) }^{2} = {102}$. 69,查表知, ${\chi }_{0.025}^{2}\left( {10}\right)  = {20.483},{\chi }_{0.975}^{2}\left( {10}\right)  = {3.247}$.
+
+于是 ${\sigma }^{2}$ 的置信水平为 0.95 的置信区间为 $\left( {{5.013},{31.626}}\right).\sigma$ 的置信水平为 0.95 的置信区间为 $\left( {{2.239},{5.624}}\right)$.
