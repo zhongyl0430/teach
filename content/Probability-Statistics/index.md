@@ -7,3 +7,4 @@
 - [[Probability-Statistics/6 数理统计的基本概念/index|6 数理统计的基本概念]]
 - [[Probability-Statistics/7 参数估计/index|7 参数估计]]
 - [[Probability-Statistics/8 假设检验/index|8 假设检验]]
+- [[统计学]]
