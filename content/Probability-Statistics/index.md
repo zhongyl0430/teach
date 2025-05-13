@@ -1,6 +1,4 @@
 - [[0 课程信息]]
-- [[概率统计考试范围参考|概率统计考试范围参考]]
-- [[某年 某科 卷面]]
 - [[Probability-Statistics/1 随机事件与概率/index|1 随机事件与概率]]
 - [[Probability-Statistics/2 一维随机变量及其分布/index|2 一维随机变量及其分布]]
 - [[Probability-Statistics/3 随机向量及其分布/index|3 随机向量及其分布]]
